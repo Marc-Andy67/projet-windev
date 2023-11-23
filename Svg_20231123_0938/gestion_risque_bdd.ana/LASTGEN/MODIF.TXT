@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+actifs		NFI		nouveau fichier
+ressource		NFI		nouveau fichier
+MaConnexion1		CNX+		
