@@ -38,6 +38,28 @@ window :
       -
         type : 278
         enabled : false
+  -
+    name : SAI_SansNom2
+    identifier : 0x255f273905a7e9e1
+    internal_properties : CAAAAAgAAAAdCOXm1iYOm3OD7v3wtATMhqvXx3Jbtt5lJxXKYyXRXWPBTkk8lgL9LfE7Y+jxgO2MprC5Dd2F7w3VsA3vwyl4hSBDlmfiopRjWm4TeV7d9I2A0DKL5n6Auoeb+PEx/KlPvXpyPZA5+H3x8rARF9UMWgYarX9Y5kD/x4d+obmfAhhTTtyywVCOrfXL+H+Uav4MeRKd7DU/K7wA98lldvzBrg1Jg5AFjLIFnflWRWzSU3IIF8I9A29YV9JWWtdEVfWW1eCKd65JPu9PRgdfRotn7YxpXDTqgc4h45g1iZXM5RbMc0iqtdZ/puE7tCMBRJQ9YonJAkdTS1sV7vxJtlUJ6vICq/L0CNnf++5hLHPTZmiRbOdTw53vgHeL/Vlpj2mePItKMqgH6DvLPYPbHRGk6R53rCXPJcNYfhd3HY1LA+mEi2VaHFPX+xhTnlNcorwdPTfVsJfvoM8GM/nFn9DgCYFftNmmA1lgZq/1o0Yi7p++2MlHYzDjUS4tBQeV6FULMe6qhJoI9KNsHpAe1ivt/cyz5PdYNwjzShnSkZtTqtVgAqxxc5x1BboeLEfyP+cHnem1+YvaXWEIFTN5KmwvWiqBrHf3E+OT3SEw29PUZ2HnmAGEp1Ezs3je31fyTwvVnXCny1pWoHL0/KN+X6n/FcmBZuPP9G86txXbVeYjDVoSJ1bqf1vHGpnJML6PJsEbaoUL1pckoIqXy+70+vK4TdHZ84peWmqdr7ebQxS+9jNSx2a4/ClWd7pJXcyRFGP6KUu+ADlQY7crRAdA4CVkxibL4LkOsJrqpZ4PPW9pCqL5Wwfke6xaImULOHnHNOc3be6JQCmFNP1O4LfP44E6sBEHL/b6qtj832QFTWOtl1EoLiQ6dZiR4aoxDr/dIemjluqifa8TOO2wK8orSmq6KlWLKWEULh99hkZXxK07cU63fdYZ/aCxKXVBk952IuihgmOz15J7GOrKQ2HmOZxOjuGjIBaIMh3VzChYgEnEt59dNCW7QQ+N6dKdO1C/bMSw5VHTdxCRmW5TVlJxGCgB3qTwzzUO4AppObluWBFg7TGuaLT8a4Kqh6Q5EWzuf4ouSaBwK9iog7Y7Rv+CpWLVP4t5JvLFcEdV+mMMRRPUrq7LWsyuqU2rlF6eTBBpafZYXzAa5V5z0mrgAnugxcVs17LnAuSyeL2RRaSBZBfrZrr+JgEgxsJ33QwU
+    properties :
+     x : 36
+     y : 114
+     width : 344
+     height : 23
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x255f22ea05431364
