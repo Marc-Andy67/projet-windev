@@ -38,10 +38,26 @@ window :
       -
         type : 278
         enabled : false
+  -
+    name : BTN_SansNom1
+    identifier : 0x255f2a4d0228eca5
+    internal_properties : CAAAAAgAAABYfoiWyAG/CBphybSWGOPEZT8S2D1XtjvnDt2GdpDDzT94p7/ZPJpS6bnAhTNQe5DZ0yNruBmnPUgZkV1YuKDqaTg6rBZ9aKW/XKN+1tRLFwjOziVDMHPFUDG2Y74ytRli9yE9/7W9cenVva35g3pd3OLQupFD3JPnhS44kcgqBYFLPgc/+PkoNv5xPUuqjzEsjhSQwYgArqWHpD1BUAsLlQ+IZvjL+2Zv1rB6C0dn5yalwCYzPhPYiiHZSGRjeXQUWOpjKeuH8zTnAsWpaHySLFJ+FL3XpNiIRjBWb+CsHDiquE18L8PseEgIbKRVifpKMjjfXaxBSnhy5LQKDlXxd8OQjlZZxQmudVpbXFOmpDeXIpdXFQs+ycOEiR/mlDU3oS5sJj82TPKHmh7/Qb+PncVqhravkclkfwNXlsZPFJ7MUOu6wcnF6LdRowKu0OujPk2u/9t6TWAxtmZLQ2vqmmYnIot+/ZjBt3k0DkY+BVrkf9HdfICs0+oSnYD7puegiuoncvDogZFaM5OADwyIE5A2XaLOElAbEfaSCy1aN048UXDbh23G6GhUG+39XI4rIjt+50PB+/nKPFeEHGRTEeW7iPfqKIojL9KRiNzicIPyt4Xi2Odls4zsTqqXrnW8pk20cwJFMuMl0qJ5QE0kUhOvy/zV6lR4944aJqh00ZK0w+TKkgXu5gxjeGSgG0+g4hWbBIsJz6Zd0iPdNQfpJo40dl3FWcJ3CWICwWubL1I30E52oB+utZKOrAH3u2Y+XYVlBsi02QTZ9vB8i/JG0lo12sSdODbt+uk+3QBVs0QNAOEslnYWcQJKOawncuE3LCHskf5mqJ6irdSRh4HimUWt/hEG8IusFaghVG0pYvKTddmMLTsfrN4ankLuVcbxAHXYSNtAiia7Lf0NV6PlB3d5GzMFUPLo
+    properties :
+     x : 100
+     y : 230
+     width : 160
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x255f06fc01a2fa9f
-  internal_properties : CAAAAAgAAAAAcH7u57yrXBvYaN3MUpduTG6tHM/gtNLIqxSu7lH4PFCTRTE7SOjmGXqjDv4P1sR5vSimWyKPjcfiLgsoM6OMazz2zcdH19nZJHngKcP4VzRdsevUZca+ROhCyjtIQg0GMl2a8TNUA7ATjNHriB9Ob34ws2rXSZhE6t+kQi0AeCVS3QF5yCgcFHxYNDmIS9tLHDsSzu6KPJXInoDvQirWOUzYvJISaCWkj7kWV3ymYU6kc6AXqIwDJGoMy9l9EHhtVeSA/+BbFcTYN4TBCspof860pOw6l1i6t1Je7jEFhizV/y8qbkxq/OZXmVvdo5MPGxwTJw==
+  internal_properties : CAAAAAgAAAB1hlhoORNbhO9XhStxiHAVRQMi9Mw4kRPk48V0vmcLg5YPFEt+SZwz6pIJoN3/fMqH4U6DudLlyZcZaeFY4SfC/vXaFFtV7gKLblNuFYyVymACmS9UjQ+0hzcc2uu7dAUG6DPwi/OPRHRb48NzM2DRvrcD9dh3kjJJO+CuSD1Jm1yc+ZxlM0T+lEydY1bao2GGYeaToiazL3etwwmhr2J0++kxmYlteDtqzG7tUOY9uxdWX3cG9i95IpI5RHThWWa0laK1Dr5wk4qkdq3ecg+C9PoC4bmoOmiuqZ/JQ0fuLhkJkY6hChEIEiZYoochVFGSle/7MshtRd4xFmHXYCkLCjjOtqJlvX2qQwysMybMwnHu9w1fE1j4MFbkUXbJ/OpjvkWUwuGhZrpsRz7XQ6s4eRBTrV2xNgNEqSM2mcgAah+maOIolf+xxVaNyptflbIwS3gP
   controls : []
   code_elements :
    type_code : 125
