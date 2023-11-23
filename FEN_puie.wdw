@@ -10,12 +10,34 @@ info :
 window :
  name : FEN_puie
  identifier : 0x255f22ea05421364
- internal_properties : CAAAAAgAAAAOIsop9TKuRJyUMGFxJxYFXJRsTNdPgIuCE373y1OLjfvCjt+h5zYQQkFnL+Zm0iaQYlMyXJWlwUaOKqdUX4tlAV/WHQgNk3cJ2e5XdxQtW5DNKr/a572nDolJKCu1kJKNgk+aRNWfM2s4+FixlYQyJZ14hsUan0BxeMNxFV8fw0/060+LMh/COm5UQksTM0ccQLgU5owGzYPMcebqaRTavmcy9ZkgHaNB23tUSUPcxQwDHrhsqTBPQRM31Mnm9EEPyGwcgpxyjMNa7B1sdqb6lgg0llmd+hLSK6GZhCmqmFg1IqVEopQjQJWLyIt3MJoTW+oMwKPSUfBmrd4oQEERP5Qe/4f28zKkSxn8Wv2k14LsOBxnS1AFeFV/eqdtkxPbXGphi8pVsTLFiZ8MmdvX32pasQ3OYJrkxrtrV4f8voNKEfTRprvlZvyrajsAV2moeMDwNHLLTLdL/PBjMaX6R2CP3JO8APPqwXJeMIj2pQqPAAyo9AoHui9ILmoc7XYs88P6P/F/srIu/QgYupX4MX6Z83jh8iGiJDs5bOofxK57r5k9WsYB0vCdlb/UIx5kAczRubYjUOdeZ1/fTj8+YIuiWq84InM7LFxE6JF2o+kCiBuxIp1cHzb5elgQa1AGsS8o/2qs1kbqKml5cUZ34VFko+3EnNlUNr5VsfojutnIc7JRlCBhaahbY174EsENp7WqK4K3XZxuiZpgJ6hjE7lWfcWfB2CmNQp5PTFhlggISmS5fAjvKaOxTeIwC7yTPAuH7DdHzOajBgr8fUUwKBRazEyuP4S75xKb2hP4qMJJPpqpyi/Reosze1U2mNLlwsP5EGsHNgpW92RnJ3llj3zKeHppRSKCO3wVx9HIlea6ZR4ku/pqOb/KZDCMJ7aqQUBmu/TPk4o2l/MDj1Xs0XsS5+IS6fVeIBFzkw==
+ internal_properties : CAAAAAgAAABryhGNABUT2oKoTS4VCYFdONbrtuwWTzHFWb25pPgr1lZxuNA/HdJFwj4HE5vw4Y6Tdqkc9IhxGzNNgnx4fRIGp2GeH5ipf/sNgFwlJeHTljQFMybd+KxKpNNjR4+fzAl/Z8hjs5Z7Y09v5TuUTHia8JqwORMeP4LoUByY2SWZYDnbUrmVcZqPuXkmp8Xanwh9cJNG6SST04G7wTluINTvyNQw+d2GASbm53lGbgAyqvoQbDVrUdbheowd/H7+ImzGLJ2XeLB/dyflIUaeTiAX4FRfHJI/GvklihlNxJ7JZAvCaOVEE/823jC6ajJnJ1jSvH1rGgtKJCGOdUQZpSym6nrkGY1wjjW6qlmuwezi1ol1luHi8kgo/v0d2zDKydmrooadtES+tU8/VkVl4KmY8mobc0A/VvzVhZ+jxmJtpHLrFCTURJnCnplWrHE96SXZv96r9th/HESOBCAVvwNKqG0veSBkRqcjP+dTcmEwR9sUYs+3liJfVQ9Zr2oJEzSbhgVrcld3CnMSxPd6Lyt+7ueZwHfzlmNFgqjCGn91oBP82SRWkHrJ3cisyHVDmYob9LSsqkoBUnImtNCt0aGerWx6B7ZE8HdKvvN3lvz+HTJn9oAgXkMEHIhue74j9dYXdkNBmNLKypEiPcg7vmYV7ICYpLLogu9hkC9mQ5GJFMYp8SmwQKa5TP4caErHVp++hGNB0vq1t1PQUktCckKRjoACpvi7lZCrv50oQwiXVPGdHGduHDabwDfQ8CLn2ZggXQNC49uhphGTW3+kvoGMD68osx+48QZkW9Fa3gx0JjEsXrW4LskFAYUE/CEPvIymN/l438EbDndOlAVjYGWzNeZ95urWKqPTezrHqw31RtFX4mx4kNK3ulNro5p2xUnQqPvPb+ufpo2Vk/RG0lK/3UViJvLAXOE=
  properties :
   width : 360
   height : 577
   heightMin : 650
- controls : []
+ controls :
+  -
+    name : SAI_SansNom1
+    identifier : 0x255f23cb059181df
+    internal_properties : CAAAAAgAAAAxHB4Q6M9HG68QIGpjBDZknaHlkIzHsAbOVtBp6C+JzpT2ERUkELUh0X2CLYmoW4UpHUdmtd4NIGtQAPSmfQJJAiD5Vo2G56kazvNV6dcI14orOSHoGb69ZW4KZqQzBhvW+LDBc4DxEmE28bKZqec6w5hmA2KoySOmVFH7JFijvp+CjDVUXSz80+6lT2X9sMqvo9dFWvSUseAGrEtfVj8cAvuBPp5eEdGVmleHB7/8veSVZ/r79Qftst55/GXyF5B7rnRyPJgX7akNBUda2Xjjb54PTYUU895blr7byBqRHhfjHK24ZZlnKlgHlj+r/de88A0HANHdF10atoDn65uOJ+q/vfbCQZfjHon2vMJBXGJqcTLuyPUnEkMGj/KZpBnSRqhVwIcQ0Ms8tFKpzmF7GPgICq70QamO8u6haL3O5lXXtV38MLjC6ySRaq2N4NTu7DrV+XowHEZ2sqt+lb1fent1bOckDM3TazgXFfmELsM0z47nvmXKcoUOrRmZnKu5AJ7sW4IVABU7l9nQgq7qj6lqENLYxz1y1AU2/D7cWO4FkRjWl6e74YwgE31KsYP1Y5L1DvAsWwm8+Hfw2M9xsXFoKlhVQJGTqHBaSNMg5Tbeia212zIDSelZY5BOZ9mKDMEjssILfGjZ+VfrJ1Vp9nbcSBj3b2lyiKqrSnoLm2HHSCYZO0L/KCS6jGdPkvfOZeDfL9+nFBxSEnq5qAB8FNoWWVWmX26HAgz1pE540jALDAoj/mLe1YHchXctZO27PHICd23RvdcCM/szai9s72v0Gsqo+4SexF8Xeo3HWnv+LOej503KGHo4nCbVqjOIXPGjE8PWNJPVXXv4fRM6zQ4m3wuMe2pYYP/ZNOVvR1DveywblQ1fpfO46hzfgy0eR1eqvr36gAeJdog06KCKy9JkvS6E0Xm1UYuBGaMRIbe4VBD2PQvTzewSH2OM6FTysyqNVCw+VBCzlK2ZAZhgSQAAMPHKrcn74/kmEQMmq5a02wfSpRAdC2v842/HAFpXSAg9/Kb2/7JAQTTSGuKdvcXzUz52gw47hmDqHf3Yf9avHf6pYTHQo1X0yxG+qxDBqCMElBCzvfr6j89tYSIX7GCkwGeLnbv7cZiulDNoyPP3VolZWI4GrFdAi7Ut1MdzTxO8VdOpbpT1VrXGlmTTA4NTO8rkVjnL2hXFZ3YNimORkf0NKfbo7Vk=
+    properties :
+     x : 22
+     y : 53
+     width : 344
+     height : 23
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x255f22ea05431364
