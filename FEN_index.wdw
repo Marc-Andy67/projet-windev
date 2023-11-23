@@ -54,6 +54,19 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : LIB_SansNom1
+    identifier : 0x255f29be094ddbed
+    internal_properties : CAAAAAgAAAASd4E9UHInoDAMVlUvkGCgQGwk9g2Yfp3G1jQMnr16nPUkh2EFX3vuiZplhoyAw8KzkMuLq9jgvXPI/jj9ThekcKoR6UJrkUg/d0CX//LKjpZdJ6EtNg4y9+uN8+LXnIhIXedbPBcOQi9+vAODvvRTBVVyZ4esKaaK4RbrZCOvgZni7AxlHUobMrj5tcgeUa0ouIz8pWmg7n7l75OwBd/iCJxHNNpgp3riGi8QUJesYb5b3AJdSXBhTaMxfQqYkZWfCaoiqE2rEWPlltG94W0+9WbUgHqPFB3PaxVDM0EbC6WBX2roNCYOsh6G7FmE2p/fyAfCE5AkRHPpjSrpAuNIkXJWfckl8xeQaP1HXQzBgeKZjaHPv9+fnX9ItdaM+3EGr8dGK/vk/10MyTIHqkqykXUcsiK7ET0MwhlqInZMRXtx72SCnzloOIkrKtDPYmow7M2Dsw==
+    properties :
+     x : 334
+     y : 263
+     width : 120
+     height : 22
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x255f06fc01a2fa9f
