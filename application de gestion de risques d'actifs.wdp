@@ -130,6 +130,24 @@ project :
      internal_properties : CAAAAAgAAAC2nJ6CIR4WGSO8BSJkOU90ui9JOZdZsxZSen/PiI+FW5FNbGZ+iXXMhLkjnWWbZ1mjow==
      physical_name : .\FEN_Présentation.wdw
      type : 2
+   -
+     name : FEN_Menu
+     identifier : 0x45684a9f11af16ea
+     internal_properties : CAAAAAgAAAAyCGq+jfqy7feAjjPEXaWbGhlBmT9O3yRK5DYJ8TTgKMByVMLsZZrQmI13QcE/O60XHw==
+     physical_name : .\FEN_Menu.wdw
+     type : 2
+   -
+     name : FI_Mobile_TDB_Widget_Info
+     identifier : 0x45684dc718da6a8e
+     internal_properties : CAAAAAgAAAAiGBoOverC3edwwXfpvuM91KEj6+/Xu5fB8LYvaNXHYa8TXwvSRiEAyH1nUdEP690nLw==
+     physical_name : .\FI_Mobile_TDB_Widget_Info.wdw
+     type : 8
+   -
+     name : FI_Mobile_TDB_Widget_Valeur
+     identifier : 0x45684dc718eb6afb
+     internal_properties : CAAAAAgAAADtacXZ5lPbhFw5mqiyeBYtYVzI6OoijDfBNJFM/TBiTqoG9/MJD+hJASaQaCjYoBD4eA==
+     physical_name : .\FI_Mobile_TDB_Widget_Valeur.wdw
+     type : 8
   other_elements : []
   analysis : .\gestion_risque_bdd.ana\gestion_risque_bdd.wda
   net_assemblies : []
