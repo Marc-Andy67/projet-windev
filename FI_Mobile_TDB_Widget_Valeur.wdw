@@ -1,0 +1,275 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_Mobile_TDB_Widget_Valeur
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_Mobile_TDB_Widget_Valeur
+ identifier : 0x2db9dda3219cc03c
+ internal_properties : CAAAAAgAAADGYmrgq9PxpHAHVgqVyMyUz0iasnTksWuuph4Pg39lwC8LnzxDzX5NZmT4oge+NIV+kjzUTV0CRXd1r70gQOoBsdm9o620S6bFwmPT2KfOz1y/C7jZZVhOgL5V0uDR/UYKUdY04oOJVhg50SNPF9pbf3tVFOLH2GYWmXJxeBLdXhY18lVlJZCdGMEqF0yMY3a3C55QjZNLoIM7boWsrdYG7NYRvK5U1WUtGnmknP+7TSYYkmyoV3WhKHGF0rSIrwGyf0edvYJnWgbalU5cZbuxW8OliXliDaiJejeaZNSEaP86L44gbeaGJnC2gnmVg3uWAC4JssFAA2x1TIirGnSYFGhs/a83GEt5skgrlMD0Jnn9Hb64QBgzzPak3vZu97QG4D4eMpdMkEx0Pa9318hbnWEkW568X7jg1yUgUQ4TjkabIwoVV/dvR2ZNtYNRkI9nveLkAqRMieUvPtV6rQLh8vD4dBFEKwEeZd4xdOlOdJDLitgUiaONBqGcpj5PwbKRqKePb5ajNIXqV/WloqJzERFJlXGXVnWYbR5oWEe/5Wd+YGltCs6Y5H/m9vZ2bQCOTwpxTFdeZv8dnJTccmXnzHeQ8OpnQyWkY1Q2k0nGAF3ilzurqGdxZNWaJk2AVta+MGu2pQkZOnFuZqvUe4T4VW55yLICj2GAA6oBo4fozOyQCyN/IbMZ1OyzBVhDRbdTSVrWdZZTKEypqJ6qxfNX/R+9k7fnJitwuGm8LY3IVrRUPSzcTOUd8QxL+3VZHm/yFhS75Oj9neJyQwq48mi7uZGV6VOthQr4tYBOenaXQc4PrXF3VDDNp1z3oKJxjemCFw+KAparDtriyYUm4cAlbpE29TcZN7nyVKHMs16Z/EO8Kozm1P6Dlp8yM+RJw7GjpJvcAohf93cIUgV4rRnr8MD05peeNqq5ZzOVebfKPWpB7n8z1inckWQeSCZtm2Bwl95V97cyDhD9uQGrfsWLXM0aigDcC4dsShsS1VYHM9foXzSRT1FMwhhoYIWB0cmmMBvF72riVZa53q6qxuJo/sLNqtESvaOM5Qsm1yF/gHsS/rIranvJMCCnwi9Psq19oBftnxZnIewMGj4I0MUPbafdjxkFMHrbh0UMulPPkEbmyOmom4duEkw/bauDCq3Us+A5IgutIj2b++q+qKsAsMlELzieBWmBgqGgQ4T5he3VW46On48ILfQtY+WywOsXCKlkjWyUqyi3E+THfzeUhqnFy4IYI9XuevclDAgd1uhh/1o3f10WX4RqgWcx+asFHQibshmG2Tlc/VC/wfFLMILm010i6UI9Wp2jMH/b6DZWCYUhnP/wYnm2tI9dOeiGlQVXM5Iq6XBAy5N7CwQq7Q9v3K3R74zbNsOj3bUqA6epXmRF8/767jw6E4sgIhIeQ3JImyqk6rueA9aZ8t4bYRn/132sySgAuV51
+ properties :
+  width : 146
+  height : 146
+ controls :
+  -
+    name : FI_Mobile_TDB_Widget_Valeur
+    identifier : 0x2db9dda3219dc03c
+    internal_properties : CAAAAAgAAAA2WQNJFfSTWjLd5/6Fe9+GZ6P7jLWDQIxcgXSP856RTLXaM1BzEJ6ioxaRpWNl/2G0Cn7jdBnZ9+HRSbXT3BHbKUwcMLVw73wg3RqGOLukdNWDAOecLtKM3rSfJv7a6jozjnOBwmF+MjNb/ccu1lhb2ZmxTdOOolAPzSTzmDMGE6NoTw7NX9mM8qMhEs+/nrV8s9cSot+/Ht2zEStemsnrC+w1Dt6ewxWuI2kIbBl2VF6e1Y0Mer/L2dP23LvfNYNMuqJnCxE/dX0nfYE94TDS8A5o2PJzX3f5OK3oCyi/pD4GmOXqfmAy2J//zprwMJCn7dKqwFTmGGSZoh1Dvi2GUH57PJu6HKHxepf81cGYHJpC4WyR/viYV1KtXb4/3gX+/nILwnDWvdodkLzh7QEpRoAVfsoUNIBqcNdCCnDqHKnN2D60pNZubMnTI8JXCOHNCYxGE1GAveDCgevHb0ZdsbTSmV1mqzvDYrZtduu6Ys2oeAjDDSK2yJmNlGOSwzDztijJEEklZS1PaKuq+xARr8p6JcAi5YJw7PBiHmVIJU/FHyvh+T5c40qtbMs7lFoMhmFzR2Dd+gMEu32CbrxjKeYb4MOAV5Rojt28x/FQvrLeQRomCuZpWfEeJq+Q1jUgQWYYty2P3I3VUf12L/7ukISIPm7rGSG/zMzoz2zAIRl/n+2zQK6aOGR78wQudQfxQr+hQTmDjJluh3rNCe8QjevWzkwOp0WCwH5ete7oeRUe98m7jqlIYvNoqNwQ1VpgZT9TqL3ejtVn27Uco13B+NT/FeCB2Yf1HBN5q52qksRrNc5yVwW4D18UaZUiiGFhy5XENdfVy8QPciLpy2KDPzAQ/gLpbIrQfeEK+bjFPwvwg3SUCtbT/F8Iv7OXsLp0MhNgitvcfiS7hWnr5s+9flWJEIcKFsGeB/MTBCPPq1rSqO6zToTJ3D4sqUOa/TeSGBdWXlHJ4Zcmt4EAzMdh3szryYk/aC3J4oW/e8E/
+    properties :
+     width : 146
+     height : 146
+    controls :
+     -
+       name : IMG_Picto3
+       identifier : 0x2db9dda3219fc03c
+       internal_properties : CAAAAAgAAADLZBP0IS0crbgh4PZqI1p+dqlGRt1wupW8izLW6Ttul6poGEoA6PbFJ/TrEGBP3DUg5CZCsByoXqPxfouqpT1L226I8eeW+OA3rNDetMQvnrh/ZJnVQTcSe2ZJK6d8DieKPQp7mDxJahRhzlwe9DcwZIIDI0owOMkK8Fojoe9Rs3/aktuVrDw8S/iX70pdeKhcm7zY+2KH8ry8NESkZipz8xjrQ74j1nuejlLKgcZnIEM7xXnGt6dXST42G4keSKFA/TDX3rNGKIHUjE3zXaOphD0Zzk78GGRXncZG2sxeXPeNRK150L4zXi5wsEOyUV440bEHt+p1dHtk6sPAAleSKOZBS95j4w3Y/P4Hrnp7sIRepQPVaMj3Fbbch50ykVbUhHvrd1BspfI3olIrHgB3P436A+0ggxK751lkKVAjbLnAaOCQC/0vj9DcW2Z2CPOc6PnqKgV/ClRfc9fHkp0c7waIJZK8JE10Kw5eOCMDok3Fdz+kFwKsokGZ9N0AZwzwzYCATAlBSO12nO+eU+h5AqkZxDTKNB1V0wVsk0aweSydaiZq396vZoKtgujhyHwUJT7AGlMi0BRTTRhzPCJ5jONd+CeCtB/I9GB5uGT9QeyPEHtDnIpuWyz+41hUdZHPClw7Sc2yUQAD5sO1vXwQp4H+LUr6Q8v4z/isl6b2595qeJKWxh2RBKLGbnX2/q5nUcEcWT1/E9WpSEDR/hm2sF/azytnZEWveXxAtAlfoyhUQtPQzaLaOSAcj4ATJEN363yXDC+coh9Tx0tNL9Gei4P+B+yBSjSlKqrLUH/fW7COCqFqurjSy4bXhsI9d1AaC9UwZ2aGikjYI/H83a7d6b8CyiClz8bc4e28y7dTHVf4oHByYxIztuQyYMRxLKpn0++Oi2quwuvIriCvSZBkSlu1E2lBwSLkl8z5ZTl5xDvHPXSQ/A9oFjS7AGiZAMj7iyacPtmxVjDr5qrhcKrxZ8F5DmO9azMACoioa3pFuJ2S9h1xLZUNWNdupNDIuoDORb+pcAIahxra/+HWoFpSI94VXQCbMMHoKTpCrjOuyPp/7kiEF1X4S3rljTVkKcalIQFCzToHeCGe9CHsr+VcsaFj9/TFiYXL24okCM4UT+hbPUhjC0v7eZ57vyDDG3EGaPRi5OTKeBk+5rAZLD6qm9hP0/lbyBSh5tiHTXzp4rL446aCBKU8IEc32rBZpmkFiZ1oKM7/iR2wsCCG0/zrc5VJ09OEzZl6dNf+1xL3PWbM6QplGNEUaMQpCCDqtpkjMyR8ff8jgg890GjrRbvB/m5SRpR2SeF35cftPSs9xZslT6qW0phK16vEskjnGytnvJxWz6wJTvueVZPozJjXeYvhCNtnFCppIZxzDDVuMrGn43q2uYH/5WjbruWgj0CUgo69gUcrHSwydinZ9LRo52cIAUftFtjWwcvFjckyx1+XVuuWoUAQCCzTygC4kV7KCudQO8Cd9PNR1g6EeJEU2fDzj1Gve1q2U3YOo+cymP3rluWzQWKo+1XOusBHupqsFyW//X8Omm30T0Nk6vAWTkEzHKK380+hhtMdmIdLBb8a7DR/0fgpFXS++rbWIWNw6pQtNNiDY8L6AxuXH9u6jXznXnwVo2Lk+S1X+r40
+       properties :
+        x : 6
+        y : 6
+        width : 32
+        height : 32
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           code : |1-
+            
+            SI EnModeTest() ToastAffiche(<§Rff00029b8bc85d70¤fr-FR¤Fonctionnalité à implémenter¤en-GB¤Functionality to implement¤es-ES¤Funcionalidad a implementar§>)
+           type : 18
+     -
+       name : LIB_Titre3
+       identifier : 0x2db9dda321a0c03c
+       internal_properties : CAAAAAgAAABeyyNXIMSQjfNh/INY26WMsdLxEiRMsxieRSN/nvsFprPbh1U1WfKoC1sBlrj7dy5sgyKuFPDS4mBwaJbKe1Xo2l1SCtohBXXbWnamPUcSMyJ/r4+nDjXGxoA2HQgyUmya0aIym5jzv/tOTYp5OsB6POviyt15cyu6ssHoldIMvozYMwJ7ufQlsynnV8tvWpQoSe8kQJ/dVgrxbScOepHZnnNEKmO0MfcEJYjkj5AglsDwahuJ61MMrHm1WFIEcze/Q6hjUAEeSdrr4k/NXg4jf236+Uj6Rc+6sNrpUzoTgFz9WyKJ++DPt9rBA9MFxopzIoM+40DzNa1aXXoeNPcep6AxaNWLCzQ2lcInkA5LLSL3fsJ4ZBiwL4CbqWzH/qLQRGWtzL7BX05Qj9QNAiDrPz6dbryHGq/Ezlgeq2j5UN9iIdB+vCcpG53r77cWKRy4EwUr+NuhpwqET/NHA1l0ytPadB4tayVTL+WvkhavBRo/GCJOdpxJn4eXnvFizIP0z45zgGpq4nCPerV4SUxV51nWMZNNw7Om6dOJ4A/sZ1y6/WmBqSjdd4fje5w+vn+0bJiGdbKfVpcmdhgKBXhItwQzXiXXPByXlc1dKBmGJV6Fzo3z06NkFD4y3Ve1aXjKCTHSESiCGXEGM3c9fFOlUhlAKLg9U6GL4yGfTjBc/Tx/5yl/v5cCwnpK2+q+2XU8PuCc1/Zo9lwWCCkbcaqB/s0TYF8WD0a8uYy0W+689sEnFmb+WFCBWTgqlTB7ft37KCvf2qvDXoRKB/WqWTfPqP/MmzSzXirpBUtB2WThAW3V3rCjwanCn1JztGA5YiP416Q1czbFgN5WQBRHD0osyg0fx4a/OjS2PdqvmaWQ0J5kVExbHxzxvbWmhsDgVi2wAMI1kNo6vt9G7XHMPLzfQIAteGiVtAlJARSSnzRAEy1wnVyqbGacG7fol8d81aMng/wb/+yhjNitQbPrylLvOsWQ/8DaMx0mdX189T4yJTo5ay+iUL2YxgpXNzEXfUT0Pw75Z1FmfxZaWS7AvgWodCrsktKc/AE7u0R2n+MWLrRAoSExuIVo0orinkPKT9A=
+       properties :
+        x : 44
+        y : 7
+        width : 100
+        height : 51
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Note3
+       identifier : 0x2db9dda321a1c03c
+       internal_properties : CAAAAAgAAAARwZwsf/n8mEgsvSYUpILFDSDlc5TpQctmbcMO8Cjb2P3B+mGlZgRsBMo2T/e/OWMSLZJGwJ4gCAgzSzEdEKI8aJfW9bXe4EiEKz5w/efviKMtIJjKorOsn70ydVihG/ssZn32ZqBNNS/Sts+V+C7rPR1cJaKCtLDDhIhRg19lthz+86UzALa6M/SS2v8kwQPxJOB14tFhCtFT8SOAXVMMxdYP+KXbk/xBCUNEl2oCO3Kcl9oJlohemhTmp8C2BfAwH2mO2mDsPIVjNm2XUAzg+CYCRDcWVD6X/R5Ot8Vser6yyYzI8e1nKwa7hUD6SHLocZw0eTxEPh4ZUkR6TLDkdX1yRNd0aQeORmNGH+Ot77gZ6q9VYhsO7LrVQ9GPIyackHnPl7Pkalq90TUT6m9v7x0If9MCIO/Wfty/ZHyn7XpR4DXmybnrsCNGm6VVNIBkUj0FQCR/bt3SX4wirxBtIk3/9Ra9kwZUIOZX20LmjtSJvopfxCCYT8nOThRt+eMOPS3fAzKwBFejtIcZ22flf+8QEmiMTPSMTFNnWK7m9YqfkHu4SCNB85bwiA4VDIhuDQFaUqEOVKEU4jETWN/+gcfwPXVmHoq78uXTrkBktu79DD/LHR58/PQYazsEHUd06lcrn1Rq8h8BI+xQ2CjDubCzqq87kJ8qQy9iVZwAiO2pSlsHjEa3A6mtWN1PGx4Q1kigkKQHTcD5rkj2r5yk5eFuVs5Pxv/Ecn3+8iz5pEzSmyygEEM8iT5q/0qDjV9zB7PwoY1FD+gjaktj3ER2euTBAUdlkXr1v8gYOqusONjwWMvXNoSHaUGZT1bW3RAk7d1XdNxX8juSgOs80gYWSXLg/Hq52sOFb4ZuOIv9rfJ95N0xt4rg3hdFVW2sw21rY3uA79X97T4bAVYx99p9kAuVKfoRtrIF2GDeCuhtL0wnz/KcSuJ6wZNooLV729ibd8ExQTyOTn4VtFsShQ1zCkUzhllZ8CjY2FFzJQtzoE4DmPYjpRhO7wNRYtd/1qvM07nOCiD35LZuO63KGsrYdv4=
+       properties :
+        y : 120
+        width : 146
+        height : 25
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            SI EnModeTest() ToastAffiche("Fonctionnalité à implémenter")
+           type : 18
+     -
+       name : LIB_Note1
+       identifier : 0x2db9dda321a3c03c
+       internal_properties : CAAAAAgAAADoYk3i6a9Cnkbt30iyiXmwlpukPZ9yiY4kJeVj5ThO+YTpmBkwnpvzOA9wiVHWcRNj8t3xpRFCJACeztG+13MOoj45g12BoDHPd1V9Wp+p5yzdKgMdm5lJxixCbDpoZ5QuHwvNvDQmN99y3Q3cYyVoNWByxcaBEVdOmm7fnpjC/Ati7WkoveG6I9It0mgO4EWl30YFI7695Ugosj4PeGfr/aDGKarF+Niai06g9EKcAnu3YjlxCdHt/+gzInB0ppBmqd9AEwRgyupr+44yAxN8bBA0jQLb+3RRy5+kF50PkKx6qLmLy4JMhAg7lSch2ArefTULL1pbeSEvHcNyjYrxtIwgjAp4IDCM3MBUpB6etVlqV097C32fFXX9iu7AWkJ4ByDLdlLXPyqzz/9D033eP+KKdm99r7Vye4+HQXsIyimAdYSsdt8mHcBwan2VoZnEos3QKPA8iQOzrxJ1BzYei2B18NpqbLN1aNpUrkBSzn3o6hQcd20bUJ3D7f7quNMUo/c6aw9UIQMrqmHzibTTWsAJ5rKGV/QQGeOgBsQuCBtqAiW+/sWl3NpS7Iiip+GgOxbY6jXaNqhYBme/iGtuSM7IFoBy67VV2nhdkuTaun/7jpA2hhbHxPBSqyNjl0k5UOvdrcq1Lfy56pAhHo6xTfg/HX7dQVIynJyYP+4qbgoTjwaefXbOEyyI1WQcbJCeQs26a5P/5wwHH10LW1orfpFeeI5VqrUaHda5Es9ePlmfPia68l6rkuLn/UKMiOi9xQpokbyW4Y2x41ATM0Dmr7MPXgpGbnlJzh+RMu+8S97XSG+buyih5qeJyZ9R0KwbT6RxJ3EPJ+Gudjzz/QVS4fMfKiZR81c6oKCZ2RlnIp5FUlSlh7EabMigAG+KEhJDp97M2D+JKhbrkRY944jvCHY6TiwjWk45LU+m0bt7Q46Rvn+mMeaN3hkcHVY2Ru6Cj0QMpeRAwvFjmx4Dy3sdAfK9g8cQVEHc3oXNYVfRAQsP3zQ7na9QmdcM2gWT2VZM0muvL9oudl5aNrFHdeubItNFcg==
+       properties :
+        y : 120
+        width : 146
+        height : 25
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            SI EnModeTest() ToastAffiche("Fonctionnalité à implémenter")
+           type : 18
+     -
+       name : IMG_Picto1
+       identifier : 0x2db9dda321a4c03c
+       internal_properties : CAAAAAgAAAArBLLMwff3m7IZkquqYsDXZOMg2Sx09O+lAz+CtMUnWN1YpFjAyeCRO+jRValo4fqUBKW4qHho41waulP0mmfZYufmL1XOkiPMEk96lY8aIS/ebBeAXKd18GhT9UQTzIKkfJKMeE5aJcr3lQpyHRSPHM+NDHTfRK7BH0npQTh2lOBt0N6wIir2lrH3P5Zx1aErdHEgSL+VcV6d9xLCoDB1mpNTb6MPBSvkGFi1F+C59L/LwHneR4BPUmJf4tb+vwlISnmSJPlrgJufh0c4TJ2/mKtoLjw0ic5TkMC/CAAJlnT+jPHo+Y+kdF/b8D3gHlB9Nju6jdmBwXEdcXI2iVzQ/PX9BV0WOBSdBZoQJbU5fZnqag2soSnd+/GQeyXPVTpEkJG7mhUUc6B6GUahhiNFOrEbwpS4xjQZqI9vA4bgJDmZ9/JGGpIYN6JkGgBCOKRNWh4LZJq05/mOA6bfFfX5VXq5ItBUHv9ntNJIEaFDfGxFajjBJj0/jZAN2MJ0Wk3QCHwFuGfuL9cORVkPZWPLpT1lsNCMtPgJEflzuC19S8FoTCYBqpuH7LD3jZqpx45Ph46ZSkrtvjDGdSxhlf6kEqZ6fbZoPedzADi2fDuz7uiqmyDS6o+9siTb7Hvn3en1HAmMqbOgLVyt8MivRGoDB3EyW5w7rroFl90psdAklufVv4mdDQgW4e/S+QdycPiTCQc/gm5+wFhc1dUEapn7qWj1u43NzoiLEbVFMejnazQBAPrYqFbcX8RiD2yzGLfce1yM3e1RNnSSPi9/ObZUcIHvuIRObclhbZylr1wvGigu8RIMAegJstJFlmIcBYLUc4UvxPkhozsJID1bZbfhgjgDe0RPoKBOztI9/4drjQecnT1SS/6DLKgZ1nnweb9qzZvS+9kmYot80kSrJaIYDpvNC2nrdXzCLwSH06eH1l3Vc27BAwyL/b/mJY5LBBarJ/M7Rue+JUeAGQoR+cjyrgemnOxfhEcXwyFSTwyQDDNnvkhRdXsESQ2k4UNsszi2L8hjL5l9sEHJBvvljzzHKr4BfxzsqfzK61IroTRZs1cOHZ9m3d/GDZCTPx8QXahaz3anyrOolmQ2tlLthH18M20Ir8Z+KYX7aylhPapQeBQHYaWK0UdazdNk2i2fMaOaWDTt97FRz/SDkbP9yW0JmyLJMWHNGigfiJjkS9KCoKaVBRox1v2CiEmqTCCT8SknfhyGCDc0itk8jdxjTJiLLMw4pBdbnGyJEmT3cDU27IfsjWYp86xvlPk3gs8hbvz8b1IkNFAudU5aHc4wLh/iaZViSsQi+BIDde7EvwFdai6NhPyIdM1ZCoYv4MWGk+OwL3eIieMw56sQr68zFf/+/i8G91tkg+0T86K0FCQDzfsPhA4N2rP5jKXW62+QSeRgYsrSDlBMiGpQw+CgFinJhso/dCWc0QROiFMlcAexZwzU1Bz8E/oYfkTwwtQhhxPTj71HdLliK7PGRiCPYaka75zDEePYW73+4Px+dv5WY5iH/duWg3SbziYbHOcUf0mmhceeTt+CRBcKHiyN0EiCKutxoJSCnMpHU1tcqy2CHkiv4MEyhDOcsJw/jAcco80uIacbpr9yz2+yE//Aj1Du3U9EPpQz3ZTTmo4wmh5U
+       properties :
+        x : 6
+        y : 6
+        width : 32
+        height : 32
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           code : |1-
+            
+            SI EnModeTest() ToastAffiche(<§Rff00009b8bca5d70¤fr-FR¤Fonctionnalité à implémenter¤en-GB¤Functionality to implement¤es-ES¤Funcionalidad a implementar§>)
+           type : 18
+     -
+       name : LIB_Titre1
+       identifier : 0x2db9dda321a5c03c
+       internal_properties : CAAAAAgAAAC2bu7NraLB1yNGg3jXhjPmx8s48/3hmSmVijti+JH01PSm/wvkkHlQdfEn4wsY/M1n7OktGgxRAC8z0jNsqmOs/Cyh6tONAbsJE5uL8Z5ctMnNnz1p2CHltjBhQzD+EU//1BcOSBxsPgJmHE59u72Fc8RcWL1Ozjvb9eiFM7S5d84WBH3RRfG89R2aoMYoXuU8ejwb2l268+74C1FOhLH19RYPvOWOXouOb+K27lhEoCC3pQyMZIQ2NwIwJqa2lemBrLtyVcG+QpkchMeAHYw3H4J3UvmHNMWnKT0xzrnXAqs+UsnNoUtlhsMyc8IGoPFv2e4YC27sX9xE8Dea5D0H/FYxwU+RKj2jAtWLpoKFCW8LM3htRb9AsmO3AJJTJIj7lUe84w1SeB7zHygnYI6VAItQcf9GUQT+3bzksC5GjNuNpvsL4sVPOm2dWKgvRhoMtbYt2W4nCaXPAEFGIqUiRQ+RvlCjQ3f37CjwUekuygRK0FvWQGq4JqbHTA0vo7K7QW7ZNuVdZGk32YtKtEDrFjnR7tcilKuT8I6wVGsdAua+R1XFby3izWYkZ6wPgZLV7Ah4p6TyGlpwZTAx50uaAlU81hxn4/5sar+ceShi6pxOqyiG9+iw12EthT5NRKPyA3/ajYVdOGKCZp/bJod7Nh/mFGTkR2hX7u+WZ2Wo8XGHOjfPDgc6LMVeyZ3ZCs1msrp1n35OAPeJ08PQ7xUFqjMLTnRpB0lNGfLpWd5mq5csBOM8SY6Zdo6YJKairjNqDGH5kibGXSN5XeqUEi7BHnt/Q5hs8SUwUjT0IV0e1FARDhvJxRR/E/st0uExwn/5AgnzzOVS3K3mBGRXq//Ka7BItNfD/tbd3ar0vs1qYohhONpSMLjoP386JgBVJXMc5JVo/Y6FLb1bACh94ZDa2ThRmgpKLAaYdtA2+PSLEWDB2jB7v/FIhzF4R2atmICogIQDs5C5mFC3WQwBHkiTQY393dRYnb49shX8jTPQ+sZY1GPtvLhHySYIN2nmNtaYGNnnEkmTzDlBefcBUTjArz8KjW6QyLDDNCWQhxP5c/ZZlQ==
+       properties :
+        x : 44
+        y : 7
+        width : 101
+        height : 56
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Note2
+       identifier : 0x2db9dda321a7c03c
+       internal_properties : CAAAAAgAAABjIqWlxVOq0pZsgZbVVI71Jiw6GMoeL4J6bEoNxGAIY9vT1WNPAHTjyLvkj4dZXX+ceyJlcb1mQEii57nQXMrfQ4wVdRPZmF36hQZ/rY0weFEEMSTf0RM/tJr4M4jN8Zz1Vwx+P4LX8Qi6vFdSUUdH+XQT5PS74ZKHbTMsQuPFb6W44ceJqf4Q0VLMWJ4aROHzXtsQFPBpNddi/yKIbLQFRyrkCAsJQ3o+kiVMg81w9LffFVJWo0yoRvybDgdUJfBSZOAPRHVYgFJsxAzkDa8AP/b3nfWz0R0dBxHqic4IIgPeuhpTWrpNUfZ7VDH7I0TSNerbGyLDOYWs5Fbh7DAHLFCnCdxyE0/NgVY/AtOphS9mLHKRnC60RBHxx2UGssBq95e6lhRVcWr2t7KdmFNWHd03J2nZ0C4MwM/p4saLkfnERFtxgYPkrV7h/0AT1zkPBkHl/uGdgQw/1tBxqugXifN49q5Z2WW9Thi30KrAPih29jjedHagXCmyrsB5aSKcGdeu3wbWLVmHcRpSLUiLFVj1MveAfUz9T/ZwIWyZ/jYS6AUbBMB0+XtqUPbTjQbp7BmXKXqOw32FtaEjSQkKQEfF+yZt5cJGJEy0SAyNal5mxfsWRimEAasUWefPQm7vPKUxwaTWhSpY0GNGTnl12nVBwmyS6/+GNUDzlm/AB04R+DBa9Oi4eU7BumUpqrGbGXYXEM2LAq5Y2IGZpKP5+sHUcpTf8emxMsogAVK/I/Qeu3iH3rGs8CxDFPmOFvhTG3HdaHkHAcHnfI+EC1R1seyW6BjVyA4RVhFYtQwUjrp9Os0NvtBdLg3QtDX+WungzudXdGeg+eQ75IVrzQ8Cm6EewCqxYCD7icFudEJQgJYy5PUvObH5QWZxbtQjdAcOFYntv9opAM/tHV4+PG9f4aNryuFaKGQT6979mpFQ4Q5U0gc4wt/0MRsySOTRkVfLCQJCvR/1mbUgPyAXpqZUHiZSwQEnA3bqklaWG7Yz/wSQ+WtuLZwU7YdXXiFCaOUfD8BiGPe8Q0jNioXUdPQW2dh3YZ98gg7NOUEEcA==
+       properties :
+        y : 120
+        width : 146
+        height : 25
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            SI EnModeTest() ToastAffiche("Fonctionnalité à implémenter")
+           type : 18
+     -
+       name : IMG_Picto2
+       identifier : 0x2db9dda321a8c03c
+       internal_properties : CAAAAAgAAACNpV2xaR3EUojB7DMgSFLGyq2Rq3R+B/vpigm/qIg+QCCa1l6MnAD1zVU2iysyAJ8Jo2FqC9c8Ks8y2e1UWF/YRG97Nq3p0uA3Bdz9FnmdaONwFh/pRTRChmwU6Xq8BkpEXGUGYTMW7X8fEelT8ubIC/XTD1oX7v9o/Khj4y1lCorFwZUtnkl4v7aR7pJzuML5A8gH3N1NwgmNWxxYwFIU8YFAbwv44/8rbr/xhseLYhDAayBuf2kqtPs0MUNcdlpFR9KtzRYNuvYDwYXhMXbUdGGvxtGsWdh39N6rPx2zg3pCuf2eQmmBESSKbRJEZh8KM62OOw5L6OAe15GkzimS2OT7QfxMOiJVqTWEDBskhX5OdxyKmQD+4NWZhwNfyxs7ySnG8rKBWacg+GgMh+nhJUdYJB4lvvLqxnroYtxrwNFUFWb4RNVQWHniVQctuCMRV1109EFepS6ls6rdWg/GB6m8h+YjQtrKBYRIcwl+t0YkEuc/UrR1moRC/B0BKuQ5BdiPHOF1Rn/DPzuHwJOd5hz2RvDWX5cAk0YQZkZh+kdxWOfnH3dYO49AtPFl5eQeo78KZ/kE3hziaiFlfFOu+v+YqOx+p2b+5kdQ2YqModAtG9TDeF+pKKHE1pDV8t+SbbwNAxB/ZBs3DZCRIfXTNLR/064LQlEGle6qhRG8yw+dVzwJH+7wGKncQF38m5ypufr65hR9lCil7JxvK3QZbuvv73Ok51CmGAYqcpaiceM+zuYp/Ih32CoX9ZU5NqWcK4wlpdI0BAH80g8TYo0Dji2J9J0gget4oPTr4WRs/PqIW5j+IxIbbJECK1n/DbMXungwuM73kqg7WJ6n5+/+pKIBOZsuJvuswzPpGm1ZwYdeIvO/YSbNMtjKjZ/hcErjghA4o7Ck2JE0xu1G/24iVD9Vxk4jnWaEo4TEZqehzMcn0WWG0dbZ6wfyZiVxfE6nHN88Tl8VWKeKaT3m12EdOj2ykHqLfCJElsi4nV3HhdZSJaM0t4oZdnmVgnApS3ORtzwyEXLOoT2kTHzRXBvEmCztsJjXTAo8T7Xa5S26uMajA6dXGQDgWpVcmxbqUUpjIdvkLXfKyqR4Lw2ktDYQlR1RgSDvEhuB6ZewcruTRPN2q40ZClS0LTbnOHxUCaSrQt/lgI+brqbiqtQvzvtAD0McSkwxbFDb0pYkuKLrZNBFL0fBfeARAvOozSyW0Ksaq5/FflmMFj3ECjf1LcT8CT9ttM2rJxyNPBBYi+TtnSWjyAaEgYKJphP1JCdCt8slLtMDos982N+0zzc/ovvEx2Wguz6MOoXPdIrTpGaKlUKRg8dhB8krzT7jPDBYZcrpNrjBglQuP7zOIlftQOYLBUrj4znideHywqt2UyWe7MK7jMnfS6p3vPbDcvWo3gk9VGScxg0cEc8QUriuy+1FdXw+3xOsP8jBT1F4bsy1Y//v87gPfOmoxNYZ0GsC6eGunLpHK5PQfFH83xFAJxhOMCsKd78wzjY1W7xBcBmLfERGycCRZ1fPo3AYc08MW7T9r9XFpsW+mi1LzKF4mnr2TEdFT1EcIrS3O29nLLQtr42PzK7R5gLcqMAvS2lYo3PCfkHqgooJbdUT3LfBcCwh9pNjTax8WuuQ2twA5XdyVsKLKEMxcfY=
+       properties :
+        x : 6
+        y : 6
+        width : 32
+        height : 32
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           code : |1-
+            
+            SI EnModeTest() ToastAffiche(<§Rff00019b8bcc5d70¤fr-FR¤Fonctionnalité à implémenter¤en-GB¤Functionality to implement¤es-ES¤Funcionalidad a implementar§>)
+           type : 18
+     -
+       name : LIB_Titre2
+       identifier : 0x2db9dda321a9c03c
+       internal_properties : CAAAAAgAAAAZKR/S87TFeg4vkENARSp2ImAx58zNp2Ejo896o3aJIkY/cc484pVh2d5n5kpeN1KWvcPrgyEuRadVSTdISPsH/lEUHrb8M9ffAD9be9Z2oG7u2KN32iWwD2sGKVPFrHCMbAuUDlRi5wOLMnRC3zaYS2GIPe6eUvTYgZ3sawZQ8avXd7lbtZpmUKa/eGDNDm4Pa8+DtXfDWsOqFHd7gMltcVrTeCLlO6S+oat0FxKe1h1dPktBN94enKYyG52cqmGg40UG/4AT2J5Wx13XkVjOteGg9F7PI3Ckf2UcDLO1V1iQ1ScfyaLP/JZaUaxV7SN+HhXxCTZM5X1jqpq1oTvlxBbjH+2V8gtFKaRvvlmfd9LdTALS6vsXQgPZeizpl5AnXwRY6Fs17zDWNPzMuj2NigZT6cTHnF/Al8AOOKZa2JAD2Y8UEXyI/o0XOMKBnbMQgJi89O7XIVNKcFE+0l+K35I0Ez2jjJ8a11RDv3peaAjDd/CE0jyjkP82PVjk1sMahKVfuiy3PfG9ACtIGpUkIi7Pqn63fdgzslNQdi0IxGTSO9icyS7XbKRdCdhlC9CqGfAYzlKqGf8lbtgSnlNbN+wuWmbhYX8zUk2PuPDFfn3ti78EycYOE5o/HrwSV6B5cz80jAJ6pXtre0ElYuFBh3ZJeMr0l4g58rY5vl4zib+sNuPbOCsHvhnEx/jYBQiw1hf0V5yc/b7EXiORaHKZgjlKV6rKPi5MzBbQXuk8MYBAL/HlQAc8r7oIDhtPx1pytKHP+o32EMrvc8/eSPjb/feY4GISo1AAfI40T2OpOrICg5frBBgH2ISRlBnC4ubwMF3o0zCH8H6B9O3i/Vum2OYar7Vh8LD883mGih+tsAfamqZSJWhc+C98XLQb58gAxFviPq6bdtBuzDsuhreli8gUuoalMl56sIW4WXNKNh/O95xTLwlI8sapNujEJ21im+iMKWqQTHqZuOPwSJxD3ItSD4XrztX+EspBM8LUCnHD1qCRjZ49zlrJSXaDYM2shf0AReMIDu89KXTxS4LSrVRXb+b6NMLPJDoOeg==
+       properties :
+        x : 44
+        y : 7
+        width : 102
+        height : 43
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Valeur3
+       identifier : 0x2db9dda321aac03c
+       internal_properties : CAAAAAgAAAAtbWvjpeHDOV/LBiFTSFNiEI4Hf0HwVZeuD2p4tWj4MCjN7jF2eXnsctezYkOXj9FZlwGVfhh7XxuEs/0NzCbutusTmb237V1BrNG47PVfhqj+r5FtwCD8SQ6sZOFN9UtecmFwCoXddvFGsrvxggSMH7qgCr+ZIueQCYTaBhFYLojd/TrfbQ97m8/Aa+lPXi+DX153WFKRkMmm6xDuQ9WDjehH06FUhLKOQSV22NFvbSauKjMR1w47sMM4vKaPwvOEcUqSHhRoXBQLm3X+U/a5f337MMUwTJvbH99W6V35GEI5u02a3g3EN0uy7q7TwkzTsDqzThEJbAQXYcWjKmtg3nFCLP30Eg9hCZn3rZmFBJz/NgEFBgmgYYCMUv4tlqakFB2udS6bP7aYUdCnv3VEnReqR7TGvpLQR/0DoxCSidb0Jxrhw9mucaFtgzz74sCQc6gqjOMWOPyeLPC7fgy9L5V9HogFqDZPeOGeGOKgIKFZl1VbYYWydj9I0iVnwwBidTUOs0/s6XV65EA57E9LGOEZMT0O/DHA+eoDy1WrIHMR8Uv1keoXcx3X4vTSWyZI8/VeINP5pcatvF02BSIbCrvBQP6ZN+kCJCrNsp0i5BbEPAT/CFW3C5u78dFw3eaN7Faknx2HjAk85e3abotYS3DRiZ8JSwuPvki9yzEzr6JKe1kfXZ1k19dZaoioBrnahP5e1Pa2MSUUunprwvCKxo/+J/CN9nTCFpbai8rx1LzYkW58eAs1jDhyQemO+LoUwGm/8gTaS8oZlSy/nBhX8jwqRk+RYjPJDgV7viZWjvxNEV9mlFxlJpa3EqZq6adaUxk5z2NRrwVMM8mtNgEcZX2p+o09ah+RCdLaCc7UCtgc
+       properties :
+        y : 52
+        width : 146
+        height : 66
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            SI EnModeTest() ToastAffiche("Fonctionnalité à implémenter")
+           type : 18
+     -
+       name : LIB_Valeur2
+       identifier : 0x2db9dda321abc03c
+       internal_properties : CAAAAAgAAADsak784bfFG10xxEUzas2q6upXCeEr06fWwJjUlQg7Kdzr5bcl/4vzQCCluiOxtxZkvYIsrQHP2DnFd7U9Opwu3dhSO7BWChoW2bEitTRo+S1vwkg2osVzcXI2X0qI4FiAzTfErbU0xZ7NY6DRCux2I9Q2FhDyGGsnDjK06lDHiO6/r9DBVU+oLInib8wqb6XlBRfmyx0/PT2wVsa5bSYzbk83qzkyaOiSqBaI35uwWM+YkHZTUs4ppg3igbfbbjy23xhpVa/nL90elGrT64M9zbLiJ30ev9BvzXTMUYiw2xxGEVF5chy2xAnGqkBHQ21VVvs52E36zWXaM+dqUk/Erjol8JRRf0Y52zXa4znp1S3uOKl00GX7XOlrg1grTJSSZm6THRaZ5qpdWKtt1qmGOoTLP+A8LwnI7LzmRS1UCgZ1PFBPW0ehNr80gVRSMOzbzacN8KGsQfksAV0t29ONgdLmnlcRshznKltzF0tdEhaN0+zbLfqnX2p3YIM5NAQkagRzKdWT38wHZn4lz0/TWUcSnIALAYEMSFkaFUSBj0hv3AgWErPNKMhdYzQEP++TZKb2hjSGIKLvlfTHnFkYbAmpFfVguIKUEj9xsyxaOLwq64mMtyQNuugF3MOtj90hHsOTeoqdE+wK2PnW9QxwoqcQ0SW2M3xwrzRzZ7kZEAm03Od4WGcieLoHu3TvLKNN5sL7LCvR5LSeIqWasjzNLYsd66ScVhA0hkWyyi1CS+4W+CIG90tNizmCVxnVssL1BiVYOPCPg4Pz4lgkkGQ3pRqC3+Bb3ej9Lee0itNwOBTOf9ZoKOpe4xEy6yaZ6Eib0cPq4kI8wg8fOfUQ411LpCE0mNVwid1++GzPX3SRK5mxG7aN4ONEeGXQiw==
+       properties :
+        y : 52
+        width : 146
+        height : 66
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            SI EnModeTest() ToastAffiche("Fonctionnalité à implémenter")
+           type : 18
+     -
+       name : LIB_Valeur1
+       identifier : 0x2db9dda321acc03c
+       internal_properties : CAAAAAgAAAB8BW6AzDLkVD4yKWXWz8sZsywBlFhgjcrsRCklflByE82eykzpwpE1NLit2NJP7E/cmF7qikaoOJMjrrxLgWFfaye8t08qwS7v75QiTJVQEEKuXakfuf0ruQLRblHco48n/5oE7jNJXOpJhJHZ58GyZ75LV1DN3Ao8XE79e9A2iLANQUiruAE96kXc8g7D4o23+QTKwgmDvcfOdqhV0p57ahv/GKYyGO66uqXvC2rD2VFNw+OwwvlxZnsv4cS4LkQnuWcz21Cce7v97IFuTC0XFrWUojdpgQVgfu63NOyAwtWjRTdiuq6ceylW7p5RzkjTfEWKOJahbGUWtQEDjQhlEf8/L+4vLsic3jjld5ayk0GgozWyz25TSj7yHCR8cvBuoFEv9+K7jhLql+KnGzAT/8o22C6Dt8cbm63VPDoGiXS48vfcTToz5s+rTug9a9jWHxbipwh9Zt+YOInyDGfGm17VXV7f9PlQ1ESRKiY+n8V/W+EFyjsndGTpLoKAH7zkJ9mLYmc4+srZIqiyyCfhJUl6yy18pjfnaP0Sil6rd+d9MZ+NkAUux1JzqGbOZYCtU/k6RY3LB2TlfxiPhlRxk4eqFZ4Mt8PZ275fo9Y1b/cf/sINodfQw0EK+XE/W7OHX2eXt/z/YMiesN5NBEGQB5NxWOOfjLiaAJfNMEuCHM/K8aHn3xx+50l4o25brU8RLYmzbqPulMFaO+JmyJZNr5VvRvxRv3cn6j8dOjJfAbUjuFZG/JMBy+2BTvxPU8/iQnigku8VJIAQv2j/cTk1eIFLsptDwFrjggwXjoUvokiHoytMjvBh4qrG+CL0jLKVrMN/1/eTeaDm4oRrprFileOlbPy1Ng1+6+cIxXGL
+       properties :
+        y : 52
+        width : 146
+        height : 66
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            SI EnModeTest() ToastAffiche("Fonctionnalité à implémenter")
+           type : 18
+     -
+       name : IMG_Fond
+       identifier : 0x2dd6a5da21c7ac97
+       internal_properties : CAAAAAgAAAARasSELvT2VLX1/2gdFrPLO8KBckdTnmVup/c42gPJAl0rmp2fjB5omMNUOsO6Qy/mcCO8Zf3f+ELPJRs/cs2+S/OOFtx3Z8YtFGhCYeK4dBhds9ZZyaDUHBNhSuywuPLTAZq0oLRSGQmiaa1ltaGa69UJxi3l23qeZ0UkoMBP2nNBPXOOemuhN8fkX+SBycTew2d1ThRbwN04YkjZAoenryCl84Ztwx82jAmec9yaiIqzT8b85purrDPg6jTjuctnXof4MO4A6U+JAtQqrckjds9O0xB/7IWVCO234BKU8tuMshX+HoVSfyJ5cIUSdUV6zMf/KZiLSS3T4A2KI1Zb0t1LkCgSf07FCw/OSeX0CLM8cPn5ZjJyfFZk5oVOctCFDH1oOwmtrHDn84O78O7cSyGAdsa/CUkF0EwluhvzkXO0g/azYs22Wfsn0Ib7eLNu8lA2oQNHxJew0/etpPtcSCc5qXj01j6wklDbVWUbkIyzsPsqqyL+NaQm4z8ZZZXxAGWBeLudr+ig4Oekq4FvkBWfnDwAA2cDft/sPnP41zLrYxi/arQ6CsWgH3NHjSZ3EG5Rj51euiSN7DmKDc5rZAnGx/GQBQnY7XvcodAU0Vt5fSsAKSTZknV6t2ovFLpFVvvVccVE/eXDxwMSTOt40fRm3mcfzJijz+UWVQ/A/f3TEvTbjdJl/OB74MBg4rifUU4oWAfRzef2NJG/gzl5ZdOdQ/2Cg93cIXdt/9lXwljo19m4XIi4aeK7tAFYnBXXJPbw+kuNBn0NDSCU3XrGQJZOpDrpE6UKwuBAGrtV/AQMWxfWo0t0E4IJ0lPQ+kG1EoSOv2DTkZ0yalJ/eMrwixZcYUB4C4fSo4ideKNwSQlVsx92L5FjZBCD1kwxRV3WYEfGDpTPaeWgG/u8AgehgfeaSipN8PW1c4PvqSUyJ3R64HCoKHyuGx8Pa1uMOiYxuw35wG7DIpsDSMDZwgO2njXvcrGdGdvhpBjLzjbRWkIrO5Xk6gqUCUgAKIckL4G+UTJLP5xHqmEAd8W9HEYEHfE4YpSjelQBQsGeQ9P6HMaJ+O8u/4Rs4LQpu++FpfdO4Xqnmn3klYVYYhIaBnSJmF/juDJpJ9AmHR6bkJLN/tkwMRIi9UCuUbj/07BU6RL1Rm9fAP+4M94Q7Hfqn1vPxqaXyvffdkl8WBuXwbcfC+sdHHfK/7irS1uaumfpn7rnPoALNd1yX9dVQTaYuOcdJLp03jKFOSMwnhXQMFOZZcFa134ZQIyxynb2oImY8sGj7xDpp+PDJmnhDCla43dcg2WZty3uoN45+HHzC8tSRe54A7NS2i8UJOfcD8584IIbCFUDe59CX4v/kjgLevdmJgw5Lg/HFwV6+QeezFxc+JyFahlO0SZEHBL6mfErju3zxd8Dluxr1YdGcwjc+RAAYXXQiLKCdNk6xWBSa/VVgdPRgMEDpMpVt2RXoSlqx5yf0Ysz11Dmc4THTKGCJztRt0kI4lvHsuAfGLsP33KLa+Ja50wTW45sW2LK9mPjVDWANGdVkOr5FMWVBWVoM0v9Zk540VDkZter+rBNzTt9FRn1w8ZUkBz4LKuXTz8W/Bim2aA8g23DTeFID6NJLa12laP3dYunMivj1Yo6G66Q83EiSIK2
+       properties :
+        width : 146
+        height : 146
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         PROCEDURE MaFenêtre(nPlan est un entier, gsTitre est une chaine, gValeur, gsNote est une chaine, gsPicto est une chaine)
+         moimeme..plan = nplan
+         {"IMG_Picto" + nPlan,indChamp} = gsPicto
+         {"LIB_Note" + nPlan,indChamp} = gsNote
+         {"LIB_Titre" + nPlan,indChamp} = gsTitre
+         {"LIB_Valeur" + nPlan,indChamp} = gValeur
+ menu :
+  name : _Menu
+  identifier : 0x2d72850d2ebe4d4d
+  internal_properties : CAAAAAgAAAAzphIx6z+DidVBJRkzmvmAR+AZNWHZ/ze7Gj7rz5H9ISX9BPwhbPMKtGLHb5HxaQeXbwPH5Klv5/KlneGyCUEkYxkTwxgs9CmdFcEGCL8s1llo8CL8xG6xPJU1d3uTDkqehxswvjzRx6lADBiMam2mUG+ZW17kFl/FgzTxDhR7mcuVWr44VQK51nxrkXaAwxFKbCqH4yPE0ASJ0+dWwOBJpZBdhx8xsubcfrdQ7myI4+B/2wL6Yafhd/6pSG4TOZDOfNtF2r0wskQIi7vTDRks7+ocbZPg5lmuOJTKR2g7lPZTJnxBBepmPuWhoBiT91O1/FQmxeFbY9SPyx/rjDODz/6Kn0fTKLK89xpNW+cWhX0E/IQV91A2smwsnuQiQbi1SswkKW6fgTK2tKIY5o3VR9YDPI7OguGiDXD/95q8AwL6EHjrukhjBRO6/z2Lqvv2WwY9kvPxFESIvbRoHEmpnJ77KzaXauUbW8aV91hNF3hP35rtsF8+UmI1OePnohh+0/Dc1xlmx2+Nk0TVFyvyMgyeznGhvs8HhY7YhzYIG1WSPfvX1DmbQKH4RPAhjim1yht8i/Xzgvco/0xj3q2rxSmhpntnl56gtSOOuxjaFHx6nbsOem+oMchsfAqd1Gzy7eQrFb/ocqhBRz2UqzxC2xRdmQzfA4d+JEPT0S9zyAH2VPG023u63D2Hlrr8BTMh590eKf+cT6MxIo7L9nmlS6GsK+hdpg==
+  options : []
+ languages :
+  - fr-FR
+  - en-GB
+  - es-ES
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1db9dda34f69c25f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
