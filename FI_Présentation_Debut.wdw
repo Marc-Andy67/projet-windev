@@ -1,0 +1,111 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_Présentation_Debut
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_Présentation_Debut
+ identifier : 0x256855db2af0c75d
+ internal_properties : CAAAAAgAAABB+5gUCPzITK4AC5QYC71XWkhe3kvv/IsiZHKgBULbzH2cGhbxyxJfnXSaxQCYpcOvxhQy2QzC90qCSkfIyJaVktLe8tnzNYtqIAopIoQLD40+dGGsRswY7XizXcLkyzHK1W9Jz7vV8wXJTv1E4qrE6NFlaABC6/jlRbitrdsDBe2Y3z4iSGCBNKsyeH335fFLtgaZ9ejmtCCCmWcCJ6XPYav3AUXgirxzA1chP8cvB1dBH3KzM0JurzpdOhtlC6bgskBjVcZwDHZKFn+lMnMcTVKhQ2YV4NYQWb50UFAQk7O//lLLWVm0LyTqqqoDN6M5HnyFMJO/YAukIUo5d0W1qY0dxqJikSKwJeETlh39vR642UziqrmeWZgPbSTdwQnTdoh98NUj4oXIjd07m40ORIyISbpktOGAD/NATXmOkV8G8tFJ0WBNEoLetZttIenpDBoEHeJ+BCBrI4jmq15ixZmJmhLsZJK7Qg3MCAyAmIsrSW/AlWNDQCyKMEZWViv7D7LRALgQ2aOEmsjOV0TDSDcFOwlvqdNAHOiQZQKe3PMdvQ3HrevkVpYS1siw6q4Gh4FyYKut2l4MEh1tu0wmwniOhRo+LBSJVRV5AxN56jHIgN30LmOXPYGv+gR9SziQgfGR6wFscTXk6cc/GzrKlKFGfY3gQz68HIyHffsT4r53jI57Y0r2hyYVdUWFsXJUbvXutpOoCktZ1YxQ/ZPxHbSwoabzMTQRoSeN3YnLgi937hkfK2rDamQrPUczvW8hptDKEckAFIKWFzadIeMwaoUxR8qF/du1/HiBjLR81laz+pxNP0MaXfbfnFsjlmqoYYkxWlhNY5QhmzJgYAsQPMg=
+ properties :
+  width : 320
+  height : 480
+ controls :
+  -
+    name : FI_Présentation_Debut
+    identifier : 0x256855db2af1c75d
+    internal_properties : CAAAAAgAAABLris7ibkJpoGKXQu9RKkqpdWGxCLxv+GZWtqyRUDX3yNnccAVPtZntaebvky+k5F94CSAjsCQzHwmiCPpZSBe6vUQ7I0l0+P8sK2EqfmeihqF5sJoW9GadUE6a9kzYch28V5CIs2qrBrEOiD5+Pxf+QasR6JktC4HLbwQpIR6ZZdskDHDO0ibt3gukaE0AH11V/4XJLBdCi79c7yow3ZFJx0GHttCsABuXc73ctWF9M5M4V/EcRd6ziuy3/HXHiYkQ0x6iCwi7a+pl4oak7BGshL/A1nPhM3lLboTJRzkRhaqPWgc7JGm0e97E+ivB2vs/94wRLAYfHy2/z7aVKP/pxZgIwsCg9EItFDCIuqw3sBkKZKk4kud8qZD7Hjx5BZS5KuMpfTiUC8y/JTBXxj1wKGyu1kNON7TYRHddwqeuRm8tUALoiIwG6b0aMWn7nlpOLfjQoz8/+foICjRcdw/B4FTIlD6rgFGfSePH/lkpw==
+    properties :
+     width : 320
+     height : 480
+    controls :
+     -
+       name : IMG_Illustration
+       identifier : 0x256855db2af2c75d
+       internal_properties : CAAAAAgAAAD9wXnjJGQPqhDGIep4cjy0EcyAbYCB1MzTq7jjGS0Y7w8CKS3zNf1MZvfU7HfE5aeJu2qpA2ZfttyzuaXzCqPB9emlTAWR4Ntv+HVPPjNjc0LY5cXE+YBiofZIE3aMcLcL7GMbwszjjkvJSfbLy982upjiwtWDhmUD4+or8Sg8A20T3OowElNkPZ8Kwga7EYYw3HChlmW5e4iVsq3fKMzmcGjOPL4wbbwuHuKcXmaqWqFtSYQK/nF3CIPr+xrx94macazXUeICaxOVlNvGS00aQOVRqYzpnjytGIJ5MdKSfPPQ2aMvSXreIM48QstkiafljsQc2lpUgwxqEKA1vRgveHCjllfvWhKqAXx1X12T39il2KOnvHCAZ7OFnfsEh6TFXQUzvtsnrMyIL47cU0XG3WabjCqeYpit82SQQQIPKJj4G2K3Qtje1oN1AJ1Y0/RubOWJdDt4hsAriDhhBaQaZ7IQzGZeflfTmxCPpdIi5jtekhzXiKqpBolzJ3MTjmcESz3UWLRjJQCybQH3qexUSTRQ6UEJqjUammDNbivdiBbMdp0Ms9V/7b4mKx866fGv6eUKkxCOy3Nj9Bb0rGyBSWo3n0AUJQTpF5nPy+m09HlRCH7B05R2YmvjnJf5lfon1Vrmeig3RiMIY2m+qDVu62HugOuWWYb8VyS4+1crncE86raLGYROBhW/sjeisbGz0/Ka6y5/+r7cNPJ9c43pEcfmwh9TxSH9EgELwA048D+w2EO2lvohpvAQqIIpFTdC2q5r8aY/CAGggKkhOlT1fEthsEt9XKqXrFASixRFjJ4i31TJZUq+sVz49n/cX8UnfaNXYcL2TjT5zCWWFQiOwuX3F3yUlr6fPOwa3YTobw==
+       properties :
+        width : 320
+        height : 480
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+     -
+       name : LIB_NOMAPPLI
+       identifier : 0x256855db2af3c75d
+       internal_properties : CAAAAAgAAAD6Lablco0MES+np3/EfqD/7uLJK3BwnhAZuaR3EIIu6OKJQ4IGDVds7MrUXpm/DYLZ6yD38YIxTnvGjPuzTKKLFBH+TRZVY/1fgDLUFwH2LRazVXxJMw78KUy/3APPIkycsg/mE9fo2InS+611N4ZPGQfKOKu1zp1S4NdFNQEtiJxtWpwNvNsGMSJWu7yKw8o/XzPAxafAa3Cp1jYPW7Vtc9hEeE04gIA140WMhAv+xud8GTaWJwcakzxAUKtJA8+h/3FMFDWbtRYWF80fdEhe7u8XNNfl/7da/z8Npl6s/DMsDdzKN2Rd+YzmBZ2YpcqqdeLK6AUrQWXOkD/iwmKl4uDsS0djnacAF2YayoRUqBy317q4lAQfHDt+opBWfge+y2JYVLyplx7utiXe3y4bpgp80bdJ1QQvg2pXWfQtWdwuIMRD6ZKYiNnxkSi5FpoyUzsEW+ileEx2woW3jr10MIstJe47ptfBjHNIY6JXxAlgAWaWXVHwfAIZ5n+1l+9+
+       properties :
+        x : 8
+        y : 78
+        width : 304
+        height : 42
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1+
+            // A Faire : FI Présentation début : Modifier ce code si le nom de l'application n'est pas le nom du projet
+            moimeme=ProjetInfo(piNomProjet)
+            
+            
+           type : 14
+     -
+       name : LIB_Trouvez_vos_croisières_au
+       identifier : 0x256855db2af4c75d
+       internal_properties : CAAAAAgAAAAH4kRh5GE6nIKdLQJJp1evTErLzQ42X8vHj+xQtUHLFAjlXu+6SSN2J87nEeYMP4NMATpsTKZeTX5UJmCsk/J/1VLGW2G3nY2LftMm9udPtqWP8xyNuu+ngPAZDBFcHABX2b+TYaz8s5L2m+k8pU/wT+MtUIogG7JYR2bSYFrx7QSrRXqghF0JcfA8KKOygMVxA9ZqnEJGeWn3i23cbyc+iw3NQfMNUUdwQv183rYREaAW7l0HRUc1z6+c3GcyI/hOrakvjsGGPDvq8ODyHxDBUsUdxyE5AbWAkzbufI48qK40sdyVax1QT9wt22DyDysUKhDIQ7gTLhnccv8YkuJKL/ZN8dWou4+x7asySIidxTnv078oPlvFXUD/5xS7iioSTfDvm5YFdIgiMq1B4mBKbrN2bN/JqF0rAonW4Q9SCjiog2k/Kck8b1yxT5dK0h6zODD3DcReNIAq8wyaWoR91T3lWx5EkQ8PM5773ICzHLl9El64+Cm/W20VLh5q9TD2xMks93BDY/QTIb4=
+       properties :
+        x : 44
+        y : 126
+        width : 232
+        height : 58
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         // Cette fenêtre est un exemple d'interface personnalisable.
+         // Vous pouvez la modifier selon vos besoins.
+         // Les traitements à personnaliser sont identifiés par des "// A faire" que
+         // vous pouvez retrouver en utilisant la recherche ou le volet "Liste des tâches"
+         
+         // cette fenêtre interne est a utiliser dans la fenêtre Présentation comme première fenêtre à apparaître 
+         // dans le défilement de la présentation de l'application
+         
+         PROCEDURE MaFenêtre()
+ menu :
+  name : _Menu
+  identifier : 0x27cd882a138f13b8
+  internal_properties : CAAAAAgAAAAz7Lco4A8K45iJKSZxeQ0M3o23GZ/Kj3Z1ijeAwu2q0elTJk/Iv3La5sElgg8DheC7Q8D2dgO5l2fiGnzCteg3PQPRxhsg9Koor2uOeVCCJfexX3O+7ioDS0Kl/XRJvJoa0aMhVb/zlVEVfTpLu3cyBxN9egE5CDyOkGZzEkkxZM8QolU6x9OQxXHDnVPKCzUM8ShItVxMqnBjxKDh3EnU1z+Mw+8od79TcVc7vmhS2ud/ykY/d9oSmBqbl0tfAJC0tns+f4/lsjEAJCnQR2BzX0ipLHLdlJo6Y4AmFiV5A/qHCl1BlnhDAjbnEd5B0C4v
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x17cd884d01069ced
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,252 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Présentation
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Présentation
+ identifier : 0x256855db2b35c912
+ internal_properties : CAAAAAgAAAASjSlfSo5S7uW81EEFhWyQG/S3XEBPX59GpmCbVMFaitGW/v9cfIrnmbByhHQ6KayGuaK+EUERU0F3IePq/Iqw9PP64A9lyae+tnXwgNVpkm4BKE9JU5VuDyzmdbuojl90QmFtk2PSyxWu+ZAJiX/sj4YwrYYlp0ED6d3Qa3wINfR5WoQ8h5f7SBleaPAr1IjloDdWYzjqGK3ROp7Ed2p6yqq5Qog6r2Q2xJYcuceba2H0e8mA646uIf6k6bNkQWSys7M7bOWI7Mc6xu57VJG/NstbIEkUgZIr1CM/C8okli0iOhxCArjHp9bsFYsYnY8b0aZnflVpR4eT6C9ZRsOVlj2K/4keZ49TVkGCC/XV685VPkuKWGaAdE5DD6Q1APrpQBhLXcg+ZkB5n84rK0mIFtf+rqOGFV7j5+ABWJbqY0YT3aPSPSTVjuBcS07KiBe/3YqM96ht2L3GbUpzAzr9pdi7xQ0acfoZkXa48diWOKLGRVTVWxzpKa3YHWSNUK27gy9+SvN8RfzWOITjUSTN0kIuWdiAe9yhiQW1YSsyZj/zTMFqTYuunCcl5WNu5mDVEqMJSgkW8aNkY1ctc+CrhAAjlU+omjzmi4oZS56GCqoW3ZBJedvE4jinglkDMP88oqlfgpeSuQORuGplm1fIpCv24GGFwahOjU8y5U/Nnx8sjaf1YuLbYNj81Qt8/gK/Yp9h37pggB4b8ENWasQjl2TRSNXYPWXRiuv+WsbRiAbPb+M41zFjqSlUf6v3yBIQ9Xb82EyMaTjr7C+Oblz6RLJHJkZknfe/qyfrURdd
+ properties :
+  width : 360
+  height : 650
+ controls :
+  -
+    name : IMG_Bulle_Base
+    identifier : 0x256855db2b39c912
+    internal_properties : CAAAAAgAAABCKSgpp0W9ybAsAQzX5r/zJ5L4DCFTklRRgn9CaeqhU2UeRufBIQjDD+WHmq+aagGInru+9wyGZAln9nUgUKKwg9zIPNxFz/pbcJ2FUiyQan6EBxRAIS1ny5YA3fEg8RHhPKKJ0rQNZMzAKCd7g1KU6pQWOw9OFmFOk4NXbHI5WN75OdPEEtqhE6ygpxGAk3yG+6eVAQ1xOjXAyWi9BY7Cmro/Hd1vSqFJfEKk4H7e5RDLSzsV/P5+jQ/0lgh+gBNfkgimYgO5J79ALQW2OTf84JDxqwXfUKJ8g5Nax3LwNC+roUQNYY8R2+fJ6vsl27K+JVqAYQQY4Meg1jN8Bzh4p9XzabMUkq+wZ8R1YtiUrmtCO8fN5H4Yy/jHO2FTEudxuGLjtW2tJKFqvHTIy/y0+MlZYBhX4t+4WBTTlxLDAqmsv+SAB+4JnfmXfRpwg3zFPonrlov94XFl8iHSr8wghsdoLFj9ryEmZUB8S+YLeeNoQ9QETk9eRRB58TG03+cIhabQjnIdEDR+MWkrs1ym+8GCsZsm2woSHbxW1prguLgRb/s/mu6djvFdLE42Zg8NbEiasnpm1prnSKv9MojdJ0z0Yp1tqGDXJOA1Yj6rbgE1Qmte86hYosy1NQTHOZuYtMNQFaRpdqaf4Kl+U35ZhJsAAmZcEvTkPk23sQ6ICJYtSoCUjq9435lCfsHWBq3+h3W0N67ddOZD3Aa6ifEVdQ8aox9WkgBfeO1o4gh75oKrRMcwT/UuIH4OQZ40WidYHTxflTIheNzunE6F3/f7R+m91kD5RkVrRG5sHkW71ZrrcUxLnHZ9T5Ef2nr9Vs0l0W2Mk5WSfCZoxDKx1g==
+    properties :
+     x : 20
+     y : 677
+     width : 12
+     height : 12
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+  -
+    name : CFI_Présentation
+    identifier : 0x256855db2b38c912
+    internal_properties : CAAAAAgAAADAjPBlHI1+fo6kSAYbOS6LDX/gHimRMs1+77zUUR8tDG9vhQPRqj5cgMYSvCjDLHerHGIZ+URxe2zXY60fsPYjpk/GKjliPtghuGJaSzEHVz0F5ZAZ6UxbjK3ncp/m4NvFPXRFUN5gmzmU2wdfTvoXX0c1upS98g6BVwaBfkUnvEboG/nKGucGXEg84cyYnT9i1iKaZWelIH+9CTOqG3uLuunEc9zVWpK8aPgzWWBcQ1pVLaxxQBCFj8e2yuBLl7vuiNhYxRzXuNOY0JUstMJDBQVsrMPjpc9uito+EXKA2AKYUWrAUH1j9YHll5W4c6gmtR1luzueQtNaryHiyfzArmnUrw7cYeaQDAO0A4IW4CEsAaloWah5RFkhQgk9MSvBxVbuhhq2Ujx6LVGjwcVmEKHCs1s/VHo/qNO7rN2JAJC7ItRKVL0D6uQ+rmzKP4xxYREVILYqda5xnHNuXzOaiXV9IiCdTZ0b6WpceX67QSHvnm86yZL1iQUsvmMG0xOxZTCbX6fQV9sOEffeoH+qWDNHVzcPYl0LNcfXl8HtogUgAP+yPLs=
+    properties :
+     width : 360
+     height : 650
+    controls : []
+    type : 31
+    code_elements :
+     type_code : 73
+     p_codes :
+      -
+        code : |1-
+         
+         RafraîchitAffichagePosition(moimeme)
+        type : 33
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x256855db2b3cc912
+  internal_properties : CAAAAAgAAABRoRproKGFrliAWSAGzlLNLSDVNUKJQPW7jo4WqRw/TGyvyJcG3doM2r5eahfKPtKUjHzy5AchaFKHqPa0MLekWsmHYCshfM8cUO6VrJZYHZt/goTxZpdLhs5piCf3hOB5qNGvFwfi0hbLZdBXwWJy+Joh51iP7oy1YDx431J1F3+O5656dUHy3aKRlBuicSmicgb102FmFqpbBGlIZqlg0QxpRSnQ6rLAFjVrUsi7STxocJkICIyy7HG66PCL+NFyQA+18+oW585FuwgOHIaaDtYNMIIm5EmGDzGcp9/3YQJ84NMwTejLV2EQfHbiOCRaWTZt2lr4VK1wM1qhqc3NDyZZbdFGn5NRS3qkpzVkNus+UDESNIqRHxKk2KxHpxQ/On1H8pvxj7ZXqUFgW1pYtr4=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x256855db2b3ac912
+  internal_properties : CAAAAAgAAAAQQhuhwBMhLrzDTL3zmW4/j3QJd5khPEoXOIlZ9XapYi/aKpFyQjWxgooE4ZgOHXhya4aeT0jKv0c/JhJGrnUpi707pKo54CKlkoYNaZWo9vmOQYkUyqEy9isA3PPPqi7/Cc0q2W6VHCKERCwuCyYLl01CfX3ciEKZ3ibPMmTz1Gffe/a3j5aUP3wtQb24MUJVuqit2qDefEp1NtUWFHJDqkq0V95roNFI/o73Kc1ZRIxc6u5Fmjzq4/qQL2JM0gpLOGZA5ASNNYWF6f+kW6hWhWCd9px62u85EXpRf13vDA==
+  options :
+   -
+     name : OPT_PASSER
+     identifier : 0x256855db2b3bc912
+     internal_properties : CAAAAAgAAAAulSm6/8wYW4Z7JcTNI5zw32Dsd9O9DyQPyDVgPEtLlJPtkeKYI7zPb2Rfj59Kkv0SX7LULCjOjU667Dj+WCmBiCvWweafdfYlbvVySviVFPh/By9Z9J2cS6VBryyXTiCRsEgsrmdEj1vt8k2shEQxv/oJb5XQjJYs/ByBgZsrmvSttbzslK6C5YDPqzgFEkUGqYKXtQvsK7dcB2YBwQYV3IDBmaH4fTpCWFPtATezUXZeN4N/DOghwSNR6Vm8pvJYzU1iOyEGgf9S6ejBrDnZotRf3xtMX0ZhOmwRMR8T/S0S8FuUt0D/zCQ=
+     code_elements :
+      type_code : 26
+      p_codes : []
+  code_elements :
+   type_code : 26
+   p_codes : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      // Cette fenêtre est un exemple d'interface personnalisable.
+      // Vous pouvez la modifier selon vos besoins.
+      // Les traitements à personnaliser sont identifiés par des "// A faire" que
+      // vous pouvez retrouver en utilisant la recherche ou le volet "Liste des tâches"
+      PROCEDURE MaFenêtre()
+      
+      // A faire : Présentation : Ajoutez ici les fenêtres internes de présentations
+      FIListeAjoute(CFI_Présentation,FI_Présentation_Debut)
+      FIListeAjoute(CFI_Présentation,FI_Présentation_Milieu)
+      FIListeAjoute(CFI_Présentation,FI_Présentation_Fin)
+      
+      // A faire : Présentation : Adapter la couleur du texte selon les images des fenêtres internes de présentation
+      ACTB_ActionBar..couleur = noir
+   -
+     code : |1+
+      
+      // Rafraîchit l'affichage en fonction de la position dans la fenêtre interne
+      RafraîchitAffichagePosition(CFI_Présentation)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+  procedures :
+   -
+     name : RafraîchitAffichagePosition
+     procedure_id : 1542577271489808658
+     type_code : 14
+     code : |1+
+      // Résumé : Rafraîchit les bulles de position
+      //
+      PROCEDURE RafraîchitAffichagePosition(sNomChampFenetreInterne)
+      
+      // on vérifie si le nombre de puces est correct
+      VerifiePucePresenteSeonFI(sNomChampFenetreInterne)
+      
+      // on a toutes les puces positionnées au bon endroit
+      // on vérifie maintenant quelle puce est à "éclairer"
+      nNbFI est un entier = FIListeOccurrence(sNomChampFenetreInterne) 
+      nPosition est un entier = FIListePosition(sNomChampFenetreInterne)
+      si nNbFI>0 alors
+      	GR_Bulles..Opacité=50
+      	si nPosition>0 alors
+      		{_sNomBulle(nPosition), indChamp}..Opacité=100	
+      	FIN
+      FIN
+      
+      // masque les boutons de puce sur le dernier plan (ou si il n'y a pas de FI a afficher)
+      GR_Bulles..Visible = (nNbFI>0) _et_ (nPosition <> nNbFI)
+      // masque le bouton Passer sur le dernier plan
+      OPT_PASSER..Visible = (nNbFI=0) _ou_ (nPosition <> nNbFI)
+     type : 458752
+   -
+     name : VerifiePucePresenteSeonFI
+     procedure_id : 1542577271489874194
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //VerifiePucePresenteSeonFI (<sNomChampFenetreInterne>)
+      //
+      // Paramètres :
+      // 	sNomChampFenetreInterne : <indiquez ici le rôle de sNomChampFenetreInterne>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      PROCEDURE PRIVÉE VerifiePucePresenteSeonFI(sNomChampFenetreInterne)
+      // si on devra replacer les puces
+      bDoitReplacerPuce est un booléen=faux
+      
+      nNbFI est un entier = FIListeOccurrence(sNomChampFenetreInterne)
+      pour i=1 a nNbFI
+      	// si le champ n'existe pas, on va le créer
+      	sNomBulle est une chaine = _sNomBulle(i)
+      	si pas ChampExiste(sNomBulle) alors
+      		champclone(IMG_Bulle_Base,sNomBulle)
+      		// on a créé le champ, on devra le repositionner
+      		bDoitReplacerPuce=vrai
+      	FIN
+      FIN
+      // on met hors fenêtre les champs en trop
+      nIndASupprimer est un entier = nNbFI+1
+      tantque ChampExiste(_sNomBulle(nIndASupprimer))
+      	si {_sNomBulle(nIndASupprimer), indChamp}..Y<>-1000 alors
+      		{_sNomBulle(nIndASupprimer), indChamp}..Y=-1000
+      		// on a supprimé une FI : on devra repositionner les bulles
+      		bDoitReplacerPuce=Vrai
+      	FIN
+      FIN
+      
+      // si on doit repositionner les bulles
+      si bDoitReplacerPuce alors
+      	RepositionnePuce(nNbFI, sNomChampFenetreInterne)
+      FIN
+      
+     type : 458752
+   -
+     name : _sNomBulle
+     procedure_id : 1542577271489939730
+     type_code : 14
+     code : |1+
+      PROCEDURE PRIVÉE _sNomBulle(nInd est un entier)
+      renvoyer "IMG_Bulle_"+nInd
+      
+     type : 458752
+   -
+     name : RepositionnePuce
+     procedure_id : 1542577271490005266
+     type_code : 14
+     code : |1+
+      PROCEDURE PRIVÉE RepositionnePuce(nNbFI est un entier, sNomChampFenetreInterne)
+      // si pas de FI, on ne repositionne pas
+      si nNbFI=0 alors retour
+      // les puces sont positionnées a 10% en bas de la FI et espacées de 1 largeur de puce au maximum
+      // on détermine la largeur totale de la zone des puces
+      nLargeurEntrePuce est un entier = IMG_Bulle_Base..Largeur
+      // largeur de la zone de puce = largeur des puces + largeurs des espaces
+      nLargeurDesPuces est un entier = nNbFI*IMG_Bulle_Base..Largeur + (nNbFI-1)*nLargeurEntrePuce
+      // calcule la largeur max de la zone de puces (80% de la largeur de la FI)
+      nLargeurMax est un entier = (sNomChampFenetreInterne..Largeur*0.8)
+      
+      // si la largeur des puces dépasse la largeur de la Fenêtre interne, on réduit l'espace entre puce
+      si nLargeurDesPuces>nLargeurMax alors
+      	// calcule la nouvelle largeur entre les puces
+      	nLargeurEntrePuce = (nLargeurMax-(nNbFI*IMG_Bulle_Base..Largeur))/nNbFI
+      	// calcule la nouvelle largeur de la zone
+      	nLargeurDesPuces=(nNbFI*IMG_Bulle_Base..Largeur)+((nNbFI-1)*nLargeurEntrePuce)
+      FIN
+      // on positionne les puces
+      // calcule la position X de départ de la zone
+      nPosXDepart est un entier = (sNomChampFenetreInterne..Largeur-nLargeurDesPuces)/2
+      // calcule la positon en Y de la zone (a 10% de la hauteur du champ
+      nPosY est un entier = sNomChampFenetreInterne..Y+sNomChampFenetreInterne..Hauteur-(0.1*sNomChampFenetreInterne..Hauteur)-IMG_Bulle_Base..Hauteur
+      // parcourt les puces pour les repositionner
+      pour i=1 _a_ nNbFI
+      	sNomBulle est une chaine = _sNomBulle(i)
+      	{sNomBulle, indChamp}..X=nPosXDepart
+      	{sNomBulle, indChamp}..Y=nPosY
+      	// calcule le prochain point
+      	nPosXDepart+=IMG_Bulle_Base..largeur+nLargeurEntrePuce
+      FIN
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x17cd86d500fcdf62
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

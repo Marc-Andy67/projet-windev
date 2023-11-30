@@ -1,0 +1,183 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Connexion
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Connexion
+ identifier : 0x2568564a2c787aaa
+ internal_properties : CAAAAAgAAACUdh56o+HOb5eIDI4gpS+JuTyTPOQstmWLd0Rq39JUSRLGTunzG4oQpSH3qWP2CA3zbHQSVI36gqlt7tKDmOkBoHnlVALJIA+DIYXVwC40Tpo3R4nMleoWMnSH4a+oB9PyQrj9KqrvS7wnU/TpxeTODNmUuQJeQqgba+mexpGcTrjhiQ/sE88safEkb72G52EB19d5wU0PZOb14Mb7hgQ6dXTMX0EaE6B3gznoI2Cu6uByht21zHH6ppwBMW4WzWb1XYxQews9e5cMxs3OVtJCZraTTXXNhyzkew9ylefRFs7dSKD7AMIZkwEPci9r14PJ0BQSZ1t3UIPdvDp3fE58yqwq8gZpFKm53FOtYfRsJph6Uq0NV26EiZ5yCVZTtIoVBfO1GWDYvdvpsziE9LxFkEr1V86MZLHI3biIkEYMriSA8nyaJnsDmNrBlgScPDie15V+4K5V92epNtnzERZKUGAU2+I+4dFb3g0LUfKu/TZJF3d1qtuL5J2GxYn6zZt5Ei297FovsXHOkurWMOdjKGuw6iyNUl4esbcboDMIIxrb1TTObAhYHk3eUxPto13i3Zyxui6K6rMXtI3iWDYspVeBiFGYJiA2rGrA8sFQ5dsj5GRJh/5dTNRnRtaCYshukN7tAXrkegrXtMNjET9BN2RJ9IIYXGTSteBSjwHveaVG+qUDEiHzx+9fC/3jkYo22c2+G9ZAzJ++xQQXa3vGphtjMNH9k2XGpgiXEi9GpW7IZXiCJ4qpLD0qQQ5AFkquvvSJFNe6yQRfuxtzrYdYXmND9OI9L+mJ9Uu1KDK8f6O8p6cnbm24ZhEZJ4BHqyDRpjCw5m3R1OJ7RlE=
+ properties :
+  width : 360
+  height : 704
+ controls :
+  -
+    name : LIB_SousTitreAppli
+    identifier : 0x2568564a2c797aaa
+    internal_properties : CAAAAAgAAAARSeIQAQPynCTF+Phc92TjHfogtbhmOzM9XJnpwQDyuWH0iqoIbwSfnWUrqPXBYiv1ZbJFvFrR0mHkUcMHqiq46JvTv3x+JEbPlULXh79ylsa779uhz41Nph9wgUX8vEnLdpMzVil49a8RmbXRDfPwAHeP52kz2lcwxH0Q0HQ5sOtXpv+NfTAhSv5u19gWqxb0TdKSabZnDvKp2B/bp0Hd9s25upSPTkKUDutWjKE1BsHIQVF5MLzpgmqhKuf5Fy4pfoGHKMWLWK84Be4U49hbnl5Q5uTeQcoL4bkVkBOQH3T+hKowOJNpgZl9ZVZpESYJFFAVoz0/1UBe0Vvx4Q4yG11NwDVIHok+nm3ZWE+CnFt9JKJAZ1pfq7OodNPT7k5PxkY3nKCx5CEz5tqq55VfzmN8aqY2BEVOdki6cslIZyC8mdi+KjdNYbzM1zQ2vllzTYuPt6qCQg3wDjbSmIZoOVxMH/tpab53lqgo9XguQ1km3REnvR6VGvMuKzthYut9OOS4DpK8REGE8n5e3DY2c+knOQELOPk=
+    properties :
+     x : 31
+     y : 400
+     width : 299
+     height : 17
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_SE_CONNECTER_AVEC_FACEBOOK
+    identifier : 0x2568564a2c7b7aaa
+    internal_properties : CAAAAAgAAAAbZchRIR/7BWJUqso8RcWgGuw/2r5jkhyQvibB3x/G3MElVXm5sE7XBlG/x6xkXEaNbqKmNhewffDLESwJX+R4Ysp22LplQO8wsIjHCQZaP7nE8SHvYZhhLD95g3H+9RH7WUaDT7qu5dCW4wlGMd7oLyB01IR9d6cK5quJdwke0LTs5fjJr6WIt+1cbPXfS5jS/7ZSSabUXksVBeEAbDImiQXXSKttVWEXLYcRvmPALvuMIx75Eg57CUhyPXRJFzGfZiBJmdpcFrGhGazv5AtDTVtSyBs7y3MHL5QcLnDMA2vMnVK9Ri2iJmGk02P+LFRID5wg2kQWOS02auRh49HyPUCd/dy/QoRL31s+evyuozmwJ2gxWp2mQ/RXWIVUxsuWivHJkB0jzfO9wsIipDOEl9kRWIYPB048w2Zh2jb79M0fXdHMJ3662HV/6eqJrSO+MWFDV4AVkQTxoBBoB5sPVs9b4EQSRc4jp1JoJH8zRykU9t/5qX40kUqn1/l7xRExIvo57LinMdNpFbPY7RhxwXjX4Z3aBE1FeYJ8OI9x7jXu4eD4CaZnErK/wLnk2UoOftnMIxUCOXIjpvK8r3kkUptAsG91B3TRBGgUg2sISrg6jDuxKPGEQSiyvBGyJTTzidzda992AS+BlAAcjHVhNTjQW0tKTIQpEoFbpkfE6igDdzbF1CWCL2gpY2tmCgdEnnU4cnZ3cS1b5ENixHUmFDyodc4yvc6/A/suRWNiblRh/i9DKfkb/XHAW5Y79bk5jkdbRuFLUD+m2nznd9zuZddxgC+petgwAiMUDkgUEEhfx8bCjE4BT9Qlow94j6OF6Ouhko0fEo9YdQHNMO2g+kv8Ena5lXTvRezmdGFwE/5PqLfbdADBgkR9xX7NfiEr54pDmV1VAAlQFV057jZxehNIxiRrWzza/z7UIsokGKevKNkOD7dr18pyDHg=
+    properties :
+     x : 20
+     y : 570
+     width : 320
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // A faire : Connexion : Ajouter le code pour se connecter à Facebook
+         // consulter l'aide en ligne de la fonction FBOuvreSession() pour plus de détails
+         MaSession est une fbSession
+         MaSession..AppID = "1234567890123456"
+         MaSession..AppSecret = "badf00ddeadbeefbadc0deoff1ce8ecd"
+         MaSession..Permission = [fbInfoProfil, fbEmail]
+         SI FBOuvreSession(MaSession) ALORS
+         	ferme()
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_PASSER
+    identifier : 0x2568564a2c7c7aaa
+    internal_properties : CAAAAAgAAADb95w0GJ1bRScQGWkLmeSNi1mcQCNUpZPfjwluKff/CeUjHiYOyUHRqKKq9HJ9C9Hst3lblq39NzwnQhie1CafeRNptNOpMxcecUbuvwMjXM/l4Gc5sLvEn/4Ha2ICZHifOtcVooBIuxVRUPSpRITwKyPUYA1+U2tHCgTbjvCM5Lz888F8MIM5N+JJohJ6aKEd7CRuKgKTswTW+p71ul7iA82AkuMNNkrSKzUeLgTu+DEzkJvYrBqGA6YsKH1IsKPZOXHjFa5dQZE5r8PifdWLm4ILwPM0+cBlMXQh/T+E6OTAEoSs1LkNZhPbg4t/vyQLJM0i8lMwjD8knnaCXDrBJslAFcUtXU0HRUlDtPizj6MVA56KkJ8d5tTjqhFStaIfzxi2jAo4D77NaIP9JyI89LFchcG7nnjEE8cMSDC3s5DjcnmBHYACR65/BlPK8gXhiazaf8YbE4+C/uNxDG8lC0CjreV0HnJ625a5fFAJUoMFHcxCEcmISE/ZBSaY/Hv8V3NoUh53QGQt1tSYF6VdC79cfa6xKkjiUlrcqRutoDyXx0+nJzJ8uPdwRvwpCR3J+LmtyBdpzX06L7hfpg95vJ0v7nmjtE3EwYb2f5sJ8iRrc47a7UB7vxXrR9mXmBUS3djLEeliRFi1Pbg0WJZi5ULxZppG2ZBJNdeWDaNFHrWSvdMkDyAFOgdEsRftC+E+PwaXyYYvJPmYYqhJ4FGL8q6q3Kfq1+sTUgavAD9z/JnxCPbWQH/GZbvyhLe1EDbluo8rpAlhdhfkiXe6yendZVa85qzH6mSeysmaKbT7JyBA53rpTmkN+38JwDBn
+    properties :
+     x : 232
+     y : 616
+     width : 88
+     height : 32
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // A faire : Connexion : Ajouter le code pour ouvrir la fenêtre de login
+         ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_SansNom1
+    identifier : 0x2568564a2c7d7aaa
+    internal_properties : CAAAAAgAAACvTk3922SsGG37P38cWzff/YQD8XZgK3sdUpPYAa6NfuZaqS5WCw6Bn46UK6OzOOuOI+1qVcuyi3Hkr5lTrEd7ZYf7L5EUJKQARIUScQhPW5+TQZPlvwRaXtuRChpH+z0oAXnf0cpjVWk3ENEhzJgcTjVspOnQREJOo29iefE20I8tEVlkFX3wukGE/+X+OPHvjAH+T8NgAlrgQ84wsnY379qgiplD5BuuFG4Bs9N/3xcjA12cvKooHnoTFaHEVoxF+VaHLNf4YWIIOw9xu5ocXLQxYDWlnaW5Uauj+YXKcmQjk7iPPQ/o9a1Jg2yfjGAedz89QrQsuNokD6wLJICOH4umM0fjkgYU+W7ABfWGvYh8odZAWhX41XGjrQrHWkMFkrkbhsp9CDl5GDSHbbg739dZaTxlgQR3llEtcpEnjMa+m6zi4FGp5LZol6vl4HkATcsMXEOdT7YV7HAnKGH/b+J1/KwBHLBMMNOUga79D56Iv6yU4wsQU31apqej/iVXRx45ZGM5/o3DBbgs
+    properties :
+     x : 40
+     y : 616
+     width : 188
+     height : 32
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_Logo
+    identifier : 0x2568564a2c7e7aaa
+    internal_properties : CAAAAAgAAAAgTdt/qKIbVR+wqCCl5po57OJ25c4Yqdgf2ruiFpOf+LA+yWiHXtSgdbCtOCh+Durz+DZgPll2S+nfLF0aIUATYrfqJZ9nv+XPqvT4r4Men7jg2PaMwsxM5cF/M+SNFD6MYGx6nHUTcTw7FRo1uPDmRd0+gRovEQQPU46AdNrz+riWff7+51cttITEp1qxTLl7ivrMP6phL+Z4qsyzwT1HwIVPgzMnLVxmqM+f0pqOgdT5nTVDz3Rf82I/s0Fa7o23jaQVyyoWzxS77jb+R5JSJIMqX+NzUNGTq9juSQfe7R7nejjCujIknThZJ/4hJXr5Tz6BlzOK07dSbADf9d5t2606uyvuzkt0+hwhwgoxOT9LA9jYHB49y0pAfZJREAtZqPiapVM03c3UuYv1SZxYVEXajQLZUBfWuqhYt1fSi+5t0gyAoDmBEUL6oI8rM3qcrJEhH3Q/uJ4qrw5avhreAt60R2786ndJcO1dhnTqUMl5zcK1JrsKDfEP9g7P7RjNuICDzuNHPC48I6lwNbZzpFMDR+CsbEl0/95jOyKELwUd+StPdCswdNmY9xuBhywnm0QuA4lsp+seP5EeDknUX34zKt2/56wb7M85wAs9sBWRMyWtk//rYAkFI5yv9Uv2vHLj0upEIwuPxWhQmiSF9sgX12lzScOKoeIsZhXUMN2Afy1Mcdd4iFj+Qu1yvls4BPEhapCCDbmpIljuB6ARUFS72s55ftMh6WBqWNG6hdeZMAA6Y8gTiqp4PukyhTjlLLfzbIsbUdRmXULGf/yZGt75tHcTOUp/JgukBmFHu2MxdOO8QRr23ARYeMH4slKb554tktERIA==
+    properties :
+     x : 115
+     y : 263
+     width : 130
+     height : 64
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        type : 18
+        enabled : false
+  -
+    name : BTN_Créer_un_compte
+    identifier : 0x2568564a2c7a7aaa
+    internal_properties : CAAAAAgAAAB1gSYAxO9WRULe4g29aUKFchrrPE0KS6rbpyE/q/yBbKvRNK4A7K50jDnzguRgo/RwLNYRRrHxZrgi0lCxrxF7P3yDdJF+iNxIQh650zYEID6GOjG2OkNlBl/gsUDpovE3t/trEN7XSpSO30fbpWXibQ2JG7w0q7lo7wNW8hLbPAGMbkvaIkYom97Y6BzLuY22FBEkI6oA1uonkSwxYDUm3PHwM6Vz6CWzI6o5vrBRWMU0FDm8pEN4La9kabCUmXXpWgrVD1d4G9jRuuZ6r1x8y/Rp2shFMpy29HGeI+Eb9dF7NrXVbl/lZA4s44NHbp53YLzBynvA5az3utkMDFKsOMDvsfvSziHw97M4Fittaw0VwoOgOKZSI1im3u1du76QvIk7IyE+59UUl4FvnzSTLy9r9aZ/HIXxYHjitKzKvoSrm2BFQh0wyqONji0kz6c5rkXv4oGIzXMBS0UNqtTqYdw3B5iTBFer+/dSjS+KAiWh6FqWXOuiUePQTY/eMywhPMgKNYoLQ2gnEvBUctFsI3Gt1KiQdBVSvYUTC+UJrkXZr5Kv9KA+VCKz/a1gsgtQCF/rIMowINbTSx+Uacw2Kz4RaYpGZS7LWlnz59XrYY4gq+8iIuM0/HBAuwzlLfcDkbBjZxBxCbrTgp7DE68nbKn9/xwt3i1mm9YdVtiiwtfknKU2BPKD0F4iWPR/neI1FPsSbdNEyh+aIZdmSqluGwbdz+/ePcvxLqKLApQa0mcIyHFGnLM4brML2QEzbRNNyuIeqx5/oTkr78Ux4V+lg8WLXObjbsqzVwVKFdtYLHfIqFao2/WZbaT12zs4eFXKsRr1W7iHoUhPF/EcNn5DnXw7/FRjPpuQY9+rJ32Zk+j98ykRB2FRJUyu/z/9P5BapAbMIPlz70fj2eZPgDcxchxbz0SaxbTVl3vWDrk=
+    properties :
+     x : 27
+     y : 480
+     width : 320
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // A faire : Connexion : Ajouter le code pour créer un compt
+         OuvreFenêtreMobile(FEN_index) 
+        type : 18
+      -
+        type : 161
+        enabled : false
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2568564a2c7f7aaa
+  internal_properties : CAAAAAgAAACEhj8h68IGDle0B4edCzO1dtQCqZEKZbSBYLr/NJMQYLJ61p3SggC9vZGhItRGPYV75Zli9ulJz6Jlgwt12xjp1MqU5UM8UfSL6gvkSPaJLl6K97uPi4xUhsevAHP8Z4xkyyAcOcTRUowh/ecS4iQjFFAlWjjloIqULvL9jSTPtftFrXvfBO2j2mII0Kxmp62P+ng2k3pvc7eKaOea/MadeUD9qqA46orOBqHu/GNp5av7dbxH4x6+hurBbSeamoHO+u4ocf9sHW4Xxc+00K2YnRBVseNaV4nC9GRdAdUeo4B7BnrvGNqUAA296hOhTpKy4Kluz58Jt3OnHqhi8QTckNeqbBGI5mB64ANg3b7abeSa0Vi5LS9lqLqKEmStsN3h4uxGRQZUubcg158kWdEzk5M=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAAAQQhuhwBMhLrzDTL3zmW4/j3QJd5khPEoXOIlZ9XapYi/aKpFyQjWxgooE4ZgOHXhya4aeT0jKv0c/JhJGrnUpi707pKo54CKlkoYNaZWo9vmOQYkUyqEy9isA3PPPqi7/Cc0q2W6VHCKERCwuCyYLl01CfX3ciEKZ3ibPMmTz1Gffe/a3j5aUP3wtQb24MUJVuqit2qDefEp1NtUWFHJDqkq0V95roNFI/o73Kc1ZRIxc6u5Fmjzq4/qQL2JM0gpLOGZA5ASNNYWF6f+kW6hWhWCd9px62u85EXpRf13vDA==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      // Cette fenêtre est un exemple d'interface personnalisable.
+      // Vous pouvez la modifier selon vos besoins.
+      // Les traitements à personnaliser sont identifiés par des "// A faire" que
+      // vous pouvez retrouver en utilisant la recherche ou le volet "Liste des tâches"
+      PROCEDURE MaFenêtre()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x1568564c01d9820d
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
