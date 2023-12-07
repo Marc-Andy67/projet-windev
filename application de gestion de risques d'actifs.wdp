@@ -143,12 +143,6 @@ project :
      physical_name : .\REQ_test.WDR
      type : 5
    -
-     name : FEN_Connexion
-     identifier : 0x455f06fc035ffa9f
-     internal_properties : CAAAAAgAAABZNQEFop+XmKAk3Y9/vvivT24G7uzyt1iuk2SawUROolKCI9eFhmZcBTqkHOQc5NQ8xA==
-     physical_name : .\FEN_index.wdw
-     type : 2
-   -
      name : FEN_login
      identifier : 0x4571a33b1407ccc3
      internal_properties : CAAAAAgAAACkooyoF0zkh11DT7/juUV2YmUhcUVsKUVW7cmvrUpKtjKIP41lrzxPAieRbzepUUexsQ==
