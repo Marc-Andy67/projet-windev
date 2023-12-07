@@ -37,6 +37,10 @@ window :
          
         type : 35
       -
+        code : |1+
+         TableSelect(TABLE_Actifs)
+        type : 15
+      -
         type : 17
         enabled : false
   -
@@ -132,7 +136,7 @@ window :
        internal_properties : CAAAAAgAAAD2ehzcIceRKRVvTKSQ0+Bx/C/O0k4aItoWbdiZISO3Q3bP73HKa2S6Rh9WtvmNdRDv/Tx8dmJxkAUnZl8+Opic/jNJWjVvPAEWAoOVK/vz6RaTMWvM68x07vgDwPWTP/bDwrDnsoC30/1Iy0h8HZaZAsSh1cU7lav3UqDZYbO60sdIJusk7xfPbAbSZnfWRYs8XWPnxErwwuoPEZpZxO+k9tGCgtszyBPZYZ+imn3g9/Jl2EGJEg==
        type : 2
        content :
-        internal_properties : CAAAAAgAAABl59FtKy6B/S8JeagOV+Eq5Ldp0NSL7dTtqk7JqMzc7vzdKvu3vB/7cBbghFXxJNwObmD+7lM7GU0jgHSYY3n5A32wrVXjhkHp+9tkEZegEQlpC9MurUTayYA/U33BKPQ0kJnIhPvU9dLrB/kk0WwFboLvL3R7PfOw9bCfYtQ42F+JsSuI0KD86hydJSu8YSzExHHcZ23uB4RnJCy91S8jADA3v/VtdraQQA6jeP4F5igGzAXkZHc1TV2iHaUVMCdOTLShgjjkH0cNToU0OAp+vkaOAI0v2iZSKI97SA8C/y6SrgZ+SebgvUtYYjJdpkExBpDjDLQDgzWuEmA2YpVi2gebQe0QHahPvNRgHTobHudUmLWDTtyeqeGysGDugMgmSTFLuj4Sv6oDw2ObgTuhy4WEujBezBxqY7cLomvtsW15+d2/8/cFpgS5lwfAlj0RHUX7lfPJY88G4xD2vGwsSAlVrmmWGPKxjfEgfx0SthjR6yQG3yI+0933JeK/AdQeYsVhQs5O7gtfoVgrF/lDtbwr/6YGHBIRoh7UZ7NWiiGI4tKLn/Tbeha06AmdeZr3ApUX7vwNv/OXAIqSzkUMcPQ=
+        internal_properties : CAAAAAgAAAAyho+HUL7h1QSgiu2tUqspkHjfgD840ABcbyVYIb48HiQSeRK51IP0aK6qamFOS5qL4NWMRTmrf0BfFgio5ss2+jkCUK835wKHw9AT+4Q2wbYRvKyq/LZQcnm2k02yUxVpJnS0Abg8j9P33pswtWc3ihZ+MQLIqFNP28ve0PL2Z7si0CyD/H67nSkCC0ScDkbWezka56VjhanASe1lpvrAmpcK9K6/+I571fcndV1JuhJOkr6BSJSD3VkRlaNrFYQp6danu37M9ogFJJG++iMJ9tkdftV3/ZE2qIzmpKeyuE12vP5AYnHKDwSdvFOBuI6h1uu/QlqlUFpRtbXTe/KOygcffUhXaFBEQo3SmsIC46q1X9CJUY2ek6EugPtesn5/dJ9NzP+1ysOkLkOPduT7r1GROMDRBuVUMrqJBNYsheeunsKrYhRipVc6OPENSvJKL33cZ0orcyCJY4v0+3L9pT0FU8XYARcJGytH3W5+gbOZ7SLT4fYY5IUWkX+TcOwKcMEM6s/Br2KnSZ+XuxA3k4sN9/AZLatQG/NoZQd5bGao94ZYvClFEJj0Hkw/BvN5qfQDPcLPAYscImkY86LcuB8v
         properties : {}
         type : 2
        code_elements :
@@ -190,6 +194,19 @@ window :
       -
         type : 224
         enabled : false
+  -
+    name : LIB_SansNom4
+    identifier : 0x2568638e350a7c63
+    internal_properties : CAAAAAgAAAAKUDjM6h/dbFxCs2xsgEJYNRU5jtJ2aqo9sO+anFIdn49OBnZKjx+/HHaxo7nYP19su3y3eld42wfm5Wlgfgz/l96vAEhggTdosh84RjUgkDvjL5GuDaBdKAk/jYhWmTaP8cztrFx26Q24b/dcFf4JJ1Zd69+7RaEoSr4jNePRxHeenThUbUvWW+eg123X3BbSrMn9yVXqdQII1ugZxb9SA3WwIfkrl66JOPPZSuz6sEPzOYRVYrAd+kSo0kIua+ndVl3eVUAYiPbI9dBaggo0JvETycd+hwmB6afC7gS2oAgmJKebaYVjByYPOd4sxqHwihC8ImbjZwGiQp6t/3PxL/uVQsmehYJysWZR/Xdjw/L19MJ2mTdYGCUN7JZ1gMnk7Gy3C3HKAkNaWu3E4Lc4AuU8AuFbwdakQ+QVX1OwsUm3zqlaxbs/3xjq/2bvr5YfnQa+z3CSTXxwUxz+ybbDTUaogaU=
+    properties :
+     x : 20
+     y : 386
+     width : 120
+     height : 22
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x29f8144500a4e5ba
@@ -207,6 +224,20 @@ window :
    -
      code : |1+
       PROCEDURE MaFenêtre()
+      Nouvelle_connexion est une Connexion
+      
+      // Paramètres de la connexion
+      Nouvelle_connexion..Provider		= HAccèsHFClientServeur
+      Nouvelle_connexion..Utilisateur		= ""
+      Nouvelle_connexion..MotDePasse		= ""
+      Nouvelle_connexion..Serveur			= ""
+      Nouvelle_connexion..BaseDeDonnées	= "gestion_risque_bdd"
+      Nouvelle_connexion..Cryptage		= hCryptageNon
+      
+      
+      
+      // Ouverture de la connexion
+      HOuvreConnexion(Nouvelle_connexion)
    -
      type : 180
      enabled : false

@@ -1,1 +1,22 @@
-//MO001-002.TXT ANA00001 TO ANA00002
+//MO002-003.TXT ANA00002 TO ANA00003
+Actifs		TAR	76	nouvelle taille enregistrement : 76
+Actifs		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Actifs		FCNX-	MaConnexion1	
+Actifs	NomActif	RUB+		NomActif est une nouvelle rubrique
+Actifs	IDEntreprise	RUB+		IDEntreprise est une nouvelle clé
+Ressource		TAR	68	nouvelle taille enregistrement : 68
+Ressource		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Ressource		FCNX-	MaConnexion1	
+Ressource	NomRessource	RUB+		NomRessource est une nouvelle rubrique
+Utilisateur		NFI		nouveau fichier
+Entreprise		NFI		nouveau fichier
+Menaces		NFI		nouveau fichier
+Risques		NFI		nouveau fichier
+Entreprise_Utilisateur		NFI		nouveau fichier
+Solution		NFI		nouveau fichier
+Contrainte_Entreprise_Utilisateur		NWL	Entreprise (IDEntreprise) et Entreprise_Utilisateur (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et Entreprise_Utilisateur (IDEntreprise)
+Contrainte_Utilisateur_Entreprise		NWL	Utilisateur (IDUtilisateur) et Entreprise_Utilisateur (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Entreprise_Utilisateur (IDUtilisateur)
+Contrainte_Entreprise_Actifs		NWL	Entreprise (IDEntreprise) et Actifs (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et Actifs (IDEntreprise)
+Contrainte_Entreprise_Risques		NWL	Entreprise (IDEntreprise) et Risques (IDEntreprise)	Nouvelle liaison entre les fichiers Entreprise (IDEntreprise) et Risques (IDEntreprise)
+Contrainte_Actifs_Risques		NWL	Actifs (IDActifs) et Risques (IDActifs)	Nouvelle liaison entre les fichiers Actifs (IDActifs) et Risques (IDActifs)
+Contrainte_Risques_Solution		NWL	Risques (IDRisques) et Solution (IDRisques)	Nouvelle liaison entre les fichiers Risques (IDRisques) et Solution (IDRisques)
