@@ -83,12 +83,6 @@ project :
      physical_name : .\FEN_Tel_Galerie_actifs.wpw
      type : 2
    -
-     name : FEN_Connexion
-     identifier : 0x455f06fc035ffa9f
-     internal_properties : CAAAAAgAAABZNQEFop+XmKAk3Y9/vvivT24G7uzyt1iuk2SawUROolKCI9eFhmZcBTqkHOQc5NQ8xA==
-     physical_name : .\FEN_Connexion.wdw
-     type : 2
-   -
      name : FEN_puie
      identifier : 0x455f22ea06d51364
      internal_properties : CAAAAAgAAADUsjx4Rzx0d82RwlaLpQJhriF9vQfdJM9KSJhK5w4O+vbUrGdtURnFspcB/4d5AffBQQ==
@@ -130,6 +124,30 @@ project :
      internal_properties : CAAAAAgAAADtacXZ5lPbhFw5mqiyeBYtYVzI6OoijDfBNJFM/TBiTqoG9/MJD+hJASaQaCjYoBD4eA==
      physical_name : .\FI_Mobile_TDB_Widget_Valeur.wdw
      type : 8
+   -
+     name : FEN_testo
+     identifier : 0x4571810413ab97f7
+     internal_properties : CAAAAAgAAAAVcX2hHnszbGQaWIuxNEVP+57K0uTMV2+2kU4qq0pI8AwgNeLGVf+KSf74wECwSLgAAA==
+     physical_name : .\FEN_testo.wdw
+     type : 2
+   -
+     name : REQ_nom_entreprise
+     identifier : 0x457195552c02f50b
+     internal_properties : CAAAAAgAAABz3Wkl9tPu7gSupllMuos3ZH8uApFDP3mb+90jFzcUFn+K5Gs/oPQn77l5BinBfmX2
+     physical_name : .\REQ_nom_entreprise.WDR
+     type : 5
+   -
+     name : REQ_test
+     identifier : 0x4571920128ebf2b8
+     internal_properties : CAAAAAgAAAD7VyNnRAEpMj7ge/qGjHI2j+hKau5uOLOOO7iRfCltU7knk1+NU96cX8Q+unp2AvbeZg==
+     physical_name : .\REQ_test.WDR
+     type : 5
+   -
+     name : FEN_Connexion
+     identifier : 0x455f06fc035ffa9f
+     internal_properties : CAAAAAgAAABZNQEFop+XmKAk3Y9/vvivT24G7uzyt1iuk2SawUROolKCI9eFhmZcBTqkHOQc5NQ8xA==
+     physical_name : .\FEN_index.wdw
+     type : 2
   other_elements : []
   analysis : .\gestion_risque_bdd.ana\gestion_risque_bdd.wda
   net_assemblies : []
