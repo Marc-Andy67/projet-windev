@@ -77,12 +77,6 @@ project :
         configuration_id : 1384116272580600469
         excluded : true
    -
-     name : FEN_Cnx
-     identifier : 0x45561aa70623284e
-     internal_properties : CAAAAAgAAADTLwsfrJmRShbtTZYIWDJmKWggOABjMCi2kRxd8SZs7Gz0VMRsmp1BN+zWIuIe2s42Pg==
-     physical_name : .\FEN_Cnx.wdw
-     type : 2
-   -
      name : FEN_Tel_Galerie_actifs
      identifier : 0x455f0a4d083ff020
      internal_properties : CAAAAAgAAAAGDG6ycS6GqbNzIKOXiat5chWxYevhZyRW7SQmu1q6ZoKYZBwSNicr1EmzDZVLN6kTEw==
@@ -99,18 +93,6 @@ project :
      identifier : 0x455f22ea06d51364
      internal_properties : CAAAAAgAAADUsjx4Rzx0d82RwlaLpQJhriF9vQfdJM9KSJhK5w4O+vbUrGdtURnFspcB/4d5AffBQQ==
      physical_name : .\FEN_puie.wdw
-     type : 2
-   -
-     name : FEN_Connexion1
-     identifier : 0x45685dbd174e93d3
-     internal_properties : CAAAAAgAAACB/fktmsdvAMiVdvodJ5Uf24SmpgrpjS6vBLXg5FHNCznHzrWWuZSlrZIM9Lw0zDyEjA==
-     physical_name : .\FEN_Connexion1.wdw
-     type : 2
-   -
-     name : FEN_Connexion
-     identifier : 0x4568564c123381de
-     internal_properties : CAAAAAgAAADDvztvXAkhOoZfJX80MKGYFxY+NgRbP4RTm6urWdy2Cjrq0i8FDY/r51xGsnJuCv7GTg==
-     physical_name : .\FEN_Connexion.wdw
      type : 2
    -
      name : FI_Présentation_Debut
