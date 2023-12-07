@@ -83,10 +83,10 @@ project :
      physical_name : .\FEN_Tel_Galerie_actifs.wpw
      type : 2
    -
-     name : FEN_index
+     name : FEN_Connexion
      identifier : 0x455f06fc035ffa9f
      internal_properties : CAAAAAgAAABZNQEFop+XmKAk3Y9/vvivT24G7uzyt1iuk2SawUROolKCI9eFhmZcBTqkHOQc5NQ8xA==
-     physical_name : .\FEN_index.wdw
+     physical_name : .\FEN_Connexion.wdw
      type : 2
    -
      name : FEN_puie
