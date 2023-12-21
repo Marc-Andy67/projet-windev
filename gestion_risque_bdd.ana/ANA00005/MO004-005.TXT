@@ -1,0 +1,10 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Actifs		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Ressource		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Utilisateur		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Entreprise		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Menaces		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Risques		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Entreprise_Utilisateur		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Solution		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+MaConnexion1		CNX		
